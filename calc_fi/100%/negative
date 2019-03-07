@@ -1,0 +1,99 @@
+X associate with Y	X distinguish from Y	0.479340078846388
+X associate with Y	Y distinguish from X	0.2109025584909839
+X associate with Y	Y occur X	0.4557973527334303
+X avoid in Y	X use in Y	0.37864637183890915
+X be against Y	X derive from Y	0.3505334493168509
+X be against Y	X produce by Y	0.3439255371676315
+X be against Y	Y produce X	0.3615667109978605
+X be in Y	X contain Y	0.4140063524902319
+X be in Y	X have Y	0.5052111601841854
+X be in Y	Y find in X	0.4535988318855518
+X be in Y	Y occur in X	0.3286890693137087
+X characterize by Y	X distinguish from Y	0.48016581248500173
+X characterize by Y	Y distinguish from X	0.22958270548698326
+X characterize by Y	Y include X	0.4323974600232512
+X confuse with Y	X include Y	0.3984826318646831
+X constrict Y	X dilate Y	0.42818708261619115
+X contain Y	X be in Y	0.4140063524902319
+X contract Y	X die from Y	0.3773116933277795
+X contract Y	X die of Y	0.3726776704095451
+X contract Y	Y kill X	0.23582842043484673
+X convert to Y	X derive from Y	0.3550864198513148
+X convert to Y	Y convert to X	0.27009174526026275
+X correct Y	X indicate for Y	0.2978605257950402
+X derive from Y	X be against Y	0.3505334493168509
+X derive from Y	X convert to Y	0.3550864198513148
+X derive from Y	X destroy Y	0.3797131992907628
+X derive from Y	X kill Y	0.2796224639945167
+X destroy Y	X derive from Y	0.3797131992907628
+X destroy Y	X produce by Y	0.3807327283729926
+X destroy Y	Y produce X	0.4038898281486175
+X develop Y	X die of Y	0.3758867595187059
+X differ from Y	X confound with Y	0.3883112037994843
+X differ from Y	Y include X	0.4763291694083508
+X differ from Y	Y resemble X	0.478062827791811
+X differentiate from Y	Y mimic X	0.38972487315628723
+X differentiate from Y	Y resemble X	0.3726707619956918
+X dilate Y	X constrict Y	0.42818708261619115
+X distinguish from Y	X associate with Y	0.479340078846388
+X distinguish from Y	X characterize by Y	0.48016581248500173
+X distinguish from Y	X confound with Y	0.42005229347689155
+X distinguish from Y	X resemble Y	0.4712455008088264
+X distinguish from Y	Y associate with X	0.2960165620400161
+X distinguish from Y	Y characterize by X	0.23827988246463327
+X distinguish from Y	Y confound with X	0.1612477962238507
+X distinguish from Y	Y have X	0.3821047801547962
+X expose to Y	X die of Y	0.33618903959366053
+X expose to Y	X protect from Y	0.5612398309821658
+X find in Y	Y be in X	0.5005103155953524
+X get Y	X die from Y	0.24074318112022097
+X get Y	X die of Y	0.3153501508123848
+X get Y	Y kill X	0.3631936691342748
+X give to Y	Y produce X	0.4633931723354638
+X have Y	X be in Y	0.5052111601841854
+X have Y	X die of Y	0.28837823018853564
+X have Y	Y distinguish from X	0.15734974762496312
+X have Y	Y kill X	0.34508324926019307
+X include Y	X confuse with Y	0.3984826318646831
+X include Y	Y differ from X	0.2036112509888185
+X include Y	Y substitute for X	0.2677671575527042
+X indicate for Y	X correct Y	0.2978605257950402
+X kill Y	X derive from Y	0.2796224639945167
+X kill Y	X produce by Y	0.26889557572510525
+X kill Y	Y produce X	0.3203010077650633
+X know as Y	X resemble Y	0.4317939943581152
+X mimic Y	Y differentiate from X	0.17889323241789284
+X occur Y	Y associate with X	0.3150001728517188
+X occur in Y	Y be in X	0.49378918999199567
+X prevent Y	X produce Y	0.4837122860295577
+X produce Y	X prevent Y	0.4837122860295577
+X produce Y	X treat with Y	0.41274302975039545
+X produce Y	Y be against X	0.27711944588920107
+X produce Y	Y destroy X	0.4038898281486175
+X produce Y	Y give to X	0.37644984187058067
+X produce Y	Y kill X	0.3203010077650633
+X produce Y	Y treat by X	0.14090692210635605
+X produce Y	Y use in X	0.36493632420202793
+X produce by Y	X be against Y	0.3439255371676315
+X produce by Y	X destroy Y	0.3807327283729926
+X produce by Y	X kill Y	0.26889557572510525
+X protect from Y	X expose to Y	0.5612398309821658
+X resemble Y	X confound with Y	0.3542640970403896
+X resemble Y	X confuse with Y	0.39660835828019053
+X resemble Y	X differ from Y	0.4972340512574016
+X resemble Y	X distinguish from Y	0.4712455008088264
+X resemble Y	X know as Y	0.4317939943581152
+X resemble Y	Y confuse with X	0.10560991335124109
+X resemble Y	Y differ from X	0.21587942499776944
+X resemble Y	Y differentiate from X	0.12698443758862624
+X resemble Y	Y distinguish from X	0.2216033222371107
+X simulate Y	X confound with Y	0.3356163328361463
+X simulate Y	X differ from Y	0.32860546568791166
+X simulate Y	Y confound with X	0.16572842742137478
+X simulate Y	Y distinguish from X	0.23022853140962443
+X substitute for Y	Y include X	0.4109794789267562
+X suffer from Y	X die of Y	0.42396361296873347
+X treat by Y	Y produce X	0.36591297636734216
+X treat with Y	X produce Y	0.41274302975039545
+X use in Y	X avoid in Y	0.37864637183890915
+X use in Y	Y produce X	0.41587742586220755

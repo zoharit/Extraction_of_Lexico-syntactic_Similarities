@@ -1,0 +1,99 @@
+X associate with Y	X distinguish from Y	0.0
+X associate with Y	Y distinguish from X	0.0
+X associate with Y	Y occur X	0.0
+X avoid in Y	X use in Y	0.0
+X be against Y	X derive from Y	0.0
+X be against Y	X produce by Y	0.0
+X be against Y	Y produce X	0.0
+X be in Y	X contain Y	0.0
+X be in Y	X have Y	0.0
+X be in Y	Y find in X	0.0
+X be in Y	Y occur in X	0.0
+X characterize by Y	X distinguish from Y	0.0
+X characterize by Y	Y distinguish from X	0.0
+X characterize by Y	Y include X	0.0
+X confuse with Y	X include Y	0.0
+X constrict Y	X dilate Y	0.0
+X contain Y	X be in Y	0.0
+X contract Y	X die from Y	0.0
+X contract Y	X die of Y	0.0
+X contract Y	Y kill X	0.0
+X convert to Y	X derive from Y	0.0
+X convert to Y	Y convert to X	0.0
+X correct Y	X indicate for Y	0.0
+X derive from Y	X be against Y	0.0
+X derive from Y	X convert to Y	0.0
+X derive from Y	X destroy Y	0.0
+X derive from Y	X kill Y	0.0
+X destroy Y	X derive from Y	0.0
+X destroy Y	X produce by Y	0.0
+X destroy Y	Y produce X	0.0
+X develop Y	X die of Y	0.0
+X differ from Y	X confound with Y	0.0
+X differ from Y	Y include X	0.0
+X differ from Y	Y resemble X	0.0
+X differentiate from Y	Y mimic X	0.0
+X differentiate from Y	Y resemble X	0.0
+X dilate Y	X constrict Y	0.0
+X distinguish from Y	X associate with Y	0.0
+X distinguish from Y	X characterize by Y	0.0
+X distinguish from Y	X confound with Y	0.0
+X distinguish from Y	X resemble Y	0.0
+X distinguish from Y	Y associate with X	0.0
+X distinguish from Y	Y characterize by X	0.0
+X distinguish from Y	Y confound with X	0.0
+X distinguish from Y	Y have X	0.0
+X expose to Y	X die of Y	0.0
+X expose to Y	X protect from Y	0.0
+X find in Y	Y be in X	0.0
+X get Y	X die from Y	0.0
+X get Y	X die of Y	0.0
+X get Y	Y kill X	0.0
+X give to Y	Y produce X	0.0
+X have Y	X be in Y	0.0
+X have Y	X die of Y	0.0
+X have Y	Y distinguish from X	0.0
+X have Y	Y kill X	0.0
+X include Y	X confuse with Y	0.0
+X include Y	Y differ from X	0.0
+X include Y	Y substitute for X	0.0
+X indicate for Y	X correct Y	0.0
+X kill Y	X derive from Y	0.0
+X kill Y	X produce by Y	0.0
+X kill Y	Y produce X	0.0
+X know as Y	X resemble Y	0.0
+X mimic Y	Y differentiate from X	0.0
+X occur Y	Y associate with X	0.0
+X occur in Y	Y be in X	0.0
+X prevent Y	X produce Y	0.0
+X produce Y	X prevent Y	0.0
+X produce Y	X treat with Y	0.0
+X produce Y	Y be against X	0.0
+X produce Y	Y destroy X	0.0
+X produce Y	Y give to X	0.0
+X produce Y	Y kill X	0.0
+X produce Y	Y treat by X	0.0
+X produce Y	Y use in X	0.0
+X produce by Y	X be against Y	0.0
+X produce by Y	X destroy Y	0.0
+X produce by Y	X kill Y	0.0
+X protect from Y	X expose to Y	0.0
+X resemble Y	X confound with Y	0.0
+X resemble Y	X confuse with Y	0.0
+X resemble Y	X differ from Y	0.0
+X resemble Y	X distinguish from Y	0.0
+X resemble Y	X know as Y	0.0
+X resemble Y	Y confuse with X	0.0
+X resemble Y	Y differ from X	0.0
+X resemble Y	Y differentiate from X	0.0
+X resemble Y	Y distinguish from X	0.0
+X simulate Y	X confound with Y	0.0
+X simulate Y	X differ from Y	0.0
+X simulate Y	Y confound with X	0.0
+X simulate Y	Y distinguish from X	0.0
+X substitute for Y	Y include X	0.0
+X suffer from Y	X die of Y	0.0
+X treat by Y	Y produce X	0.0
+X treat with Y	X produce Y	0.0
+X use in Y	X avoid in Y	0.0
+X use in Y	Y produce X	0.0

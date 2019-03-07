@@ -1,0 +1,2481 @@
+X accompany Y	X accompany by Y	0.4853026230126031
+X accompany Y	X associate with Y	0.4219865543055242
+X accompany Y	X cause Y	0.0
+X accompany Y	X cause by Y	0.0
+X accompany Y	X complicate Y	0.0
+X accompany Y	X follow Y	0.0
+X accompany Y	X occur in Y	0.0
+X accompany Y	X occur with Y	0.0
+X accompany Y	X produce Y	0.0
+X accompany Y	X suggest Y	0.0
+X accompany Y	Y accompany X	0.4841531275745269
+X accompany Y	Y accompany by X	0.21355177884669452
+X accompany Y	Y accompany with X	0.1915532991702778
+X accompany Y	Y associate with X	0.26613715015059547
+X accompany Y	Y cause X	0.0
+X accompany Y	Y develop with X	0.0
+X accompany Y	Y follow X	0.0
+X accompany Y	Y follow by X	0.0
+X accompany Y	Y mean X	0.0
+X accompany Y	Y occur with X	0.0
+X accompany Y	Y produce X	0.0
+X accompany Y	Y result in X	0.0
+X accompany by Y	X accompany Y	0.4853026230126031
+X accompany by Y	X accompany with Y	0.4951782228083277
+X accompany by Y	X associate with Y	0.5253798005321593
+X accompany by Y	X attend with Y	0.48849175059442
+X accompany by Y	X cause by Y	0.0
+X accompany by Y	X come with Y	0.0
+X accompany by Y	X develop with Y	0.0
+X accompany by Y	X follow Y	0.0
+X accompany by Y	X follow by Y	0.0
+X accompany by Y	X mean Y	0.0
+X accompany by Y	X occur with Y	0.0
+X accompany by Y	X present with Y	0.0
+X accompany by Y	X result in Y	0.0
+X accompany by Y	Y accompany X	0.5349323738209703
+X accompany by Y	Y accompany by X	0.25726821217671114
+X accompany by Y	Y associate with X	0.3324585467885835
+X accompany by Y	Y cause by X	0.0
+X accompany by Y	Y complicate X	0.0
+X accompany by Y	Y follow X	0.0
+X accompany by Y	Y follow by X	0.0
+X accompany by Y	Y occur with X	0.0
+X accompany by Y	Y produce X	0.0
+X accompany by Y	Y see in X	0.0
+X accompany with Y	X accompany by Y	0.4951782228083277
+X accompany with Y	X associate with Y	0.3318004656212612
+X accompany with Y	Y accompany X	0.42277448757276104
+X accompany with Y	Y associate with X	0.28611152551360886
+X achieve with Y	X obtain with Y	0.0
+X achieve with Y	Y afford X	0.34896007815897845
+X achieve with Y	Y be for X	0.3643772655684608
+X achieve with Y	Y be in X	0.3166764210536296
+X achieve with Y	Y bring X	0.0
+X achieve with Y	Y give X	0.0
+X achieve with Y	Y indicate for X	0.0
+X achieve with Y	Y offer X	0.0
+X achieve with Y	Y prescribe for X	0.0
+X achieve with Y	Y produce X	0.0
+X achieve with Y	Y provide X	0.0
+X achieve with Y	Y recommend for X	0.0
+X achieve with Y	Y require for X	0.0
+X achieve with Y	Y use for X	0.0
+X act as Y	Y include X	0.0
+X administer before Y	X give before Y	0.0
+X administer during Y	X use during Y	0.0
+X administer during Y	X use for Y	0.0
+X administer during Y	X use in Y	0.0
+X administer for Y	X be for Y	0.26712613981770145
+X administer for Y	X be in Y	0.22004436625082413
+X administer for Y	X give for Y	0.0
+X administer for Y	X help Y	0.0
+X administer for Y	X need for Y	0.0
+X administer for Y	X order for Y	0.0
+X administer for Y	X prescribe for Y	0.0
+X administer for Y	X recommend for Y	0.0
+X administer for Y	X reduce Y	0.0
+X administer for Y	X relieve Y	0.0
+X administer for Y	X require for Y	0.0
+X administer for Y	X use for Y	0.0
+X administer for Y	X use in Y	0.0
+X administer for Y	Y relieve by X	0.0
+X administer for Y	Y require X	0.0
+X administer for Y	Y respond to X	0.0
+X administer to Y	X be in Y	0.2831388216203128
+X administer to Y	X give to Y	0.0
+X administer to Y	X use for Y	0.0
+X administer to Y	X use in Y	0.0
+X administer with Y	X combine with Y	0.0
+X affect Y	X be in Y	0.455372022936602
+X affect Y	X develop in Y	0.0
+X affect Y	X infect Y	0.0
+X affect Y	X involve Y	0.0
+X affect Y	X occur in Y	0.0
+X affect Y	X transmit to Y	0.0
+X affect Y	Y affect by X	0.26477505670748136
+X affect Y	Y affect in X	0.3752847859834649
+X affect Y	Y affect with X	0.2444670861340685
+X affect Y	Y be with X	0.43450515829246655
+X affect Y	Y develop X	0.0
+X affect Y	Y have X	0.0
+X affect by Y	X kill by Y	0.0
+X affect by Y	X respond to Y	0.0
+X affect by Y	X treat with Y	0.0
+X affect by Y	Y affect X	0.5755739688467343
+X affect by Y	Y attack X	0.29029098710776113
+X affect by Y	Y be against X	0.2851902694363254
+X affect by Y	Y be in X	0.4153975546454213
+X affect by Y	Y eliminate X	0.0
+X affect by Y	Y eradicate X	0.0
+X affect by Y	Y involve X	0.0
+X affect by Y	Y kill X	0.0
+X affect by Y	Y prevent X	0.0
+X affect in Y	Y affect X	0.44139298673635324
+X affect in Y	Y involve X	0.0
+X affect with Y	Y affect X	0.4285876361720772
+X affect with Y	Y develop in X	0.0
+X affect with Y	Y occur in X	0.0
+X afford Y	X be for Y	0.4824183896567427
+X afford Y	X bring Y	0.0
+X afford Y	X give Y	0.0
+X afford Y	X indicate for Y	0.0
+X afford Y	X offer Y	0.0
+X afford Y	X prescribe for Y	0.0
+X afford Y	X produce Y	0.0
+X afford Y	X provide Y	0.0
+X afford Y	X recommend for Y	0.0
+X afford Y	X use for Y	0.0
+X afford Y	Y achieve with X	0.2504867531698571
+X afford Y	Y obtain with X	0.0
+X afford by Y	X provide by Y	0.0
+X afford by Y	Y give X	0.0
+X afford by Y	Y offer X	0.0
+X afford by Y	Y provide X	0.0
+X afford by Y	Y use for X	0.0
+X aggravate Y	X cause Y	0.0
+X aggravate Y	X produce Y	0.0
+X aggravate Y	Y cause by X	0.0
+X alleviate Y	X be in Y	0.23450355423081712
+X alleviate Y	X control Y	0.0
+X alleviate Y	X decrease Y	0.0
+X alleviate Y	X give for Y	0.0
+X alleviate Y	X help Y	0.0
+X alleviate Y	X mask Y	0.0
+X alleviate Y	X prescribe for Y	0.0
+X alleviate Y	X reduce Y	0.0
+X alleviate Y	X relieve Y	0.0
+X alleviate Y	X use for Y	0.0
+X alleviate Y	Y control by X	0.0
+X alleviate Y	Y control with X	0.0
+X alleviate Y	Y manage with X	0.0
+X alleviate Y	Y relieve by X	0.0
+X alleviate Y	Y relieve with X	0.0
+X alleviate Y	Y respond to X	0.0
+X alleviate Y	Y treat by X	0.0
+X alleviate Y	Y treat with X	0.0
+X alternate with Y	X follow by Y	0.0
+X alternate with Y	X give to Y	0.0
+X alternate with Y	Y alternate with X	0.2684936797069269
+X alternate with Y	Y follow by X	0.0
+X alternate with Y	Y give to X	0.0
+X appear as Y	X characterize by Y	0.0
+X appear in Y	X find in Y	0.0
+X associate Y	X cause Y	0.0
+X associate with Y	X accompany Y	0.4219865543055242
+X associate with Y	X accompany by Y	0.5253798005321593
+X associate with Y	X accompany with Y	0.3318004656212612
+X associate with Y	X attend with Y	0.3451622212596058
+X associate with Y	X attribute to Y	0.4113747367700623
+X associate with Y	X begin as Y	0.23061031579624935
+X associate with Y	X come with Y	0.0
+X associate with Y	X complicate with Y	0.0
+X associate with Y	X contribute to Y	0.0
+X associate with Y	X develop Y	0.0
+X associate with Y	X develop from Y	0.0
+X associate with Y	X develop into Y	0.0
+X associate with Y	X develop with Y	0.0
+X associate with Y	X find in Y	0.0
+X associate with Y	X follow by Y	0.0
+X associate with Y	X give to Y	0.0
+X associate with Y	X herald by Y	0.0
+X associate with Y	X increase Y	0.0
+X associate with Y	X indicate Y	0.0
+X associate with Y	X involve Y	0.0
+X associate with Y	X manifest as Y	0.0
+X associate with Y	X manifest by Y	0.0
+X associate with Y	X mean Y	0.0
+X associate with Y	X occur during Y	0.0
+X associate with Y	X occur from Y	0.0
+X associate with Y	X occur in Y	0.0
+X associate with Y	X occur with Y	0.0
+X associate with Y	X present as Y	0.0
+X associate with Y	X present with Y	0.0
+X associate with Y	X produce by Y	0.0
+X associate with Y	X progress to Y	0.0
+X associate with Y	X relate to Y	0.0
+X associate with Y	X result in Y	0.0
+X associate with Y	X see in Y	0.0
+X associate with Y	X see with Y	0.0
+X associate with Y	X suggest Y	0.0
+X associate with Y	Y accompany X	0.41425472986783046
+X associate with Y	Y accompany by X	0.16740890611744433
+X associate with Y	Y accompany with X	0.13795077075533865
+X associate with Y	Y associate with X	0.32282430383158905
+X associate with Y	Y attribute to X	0.2773358797433108
+X associate with Y	Y begin as X	0.18242149788855477
+X associate with Y	Y cause by X	0.0
+X associate with Y	Y come with X	0.0
+X associate with Y	Y complicate with X	0.0
+X associate with Y	Y contribute to X	0.0
+X associate with Y	Y define as X	0.0
+X associate with Y	Y develop with X	0.0
+X associate with Y	Y find in X	0.0
+X associate with Y	Y follow X	0.0
+X associate with Y	Y give X	0.0
+X associate with Y	Y give to X	0.0
+X associate with Y	Y imply X	0.0
+X associate with Y	Y involve X	0.0
+X associate with Y	Y manifest as X	0.0
+X associate with Y	Y manifest by X	0.0
+X associate with Y	Y mean X	0.0
+X associate with Y	Y occur after X	0.0
+X associate with Y	Y occur from X	0.0
+X associate with Y	Y occur in X	0.0
+X associate with Y	Y occur with X	0.0
+X associate with Y	Y present as X	0.0
+X associate with Y	Y present with X	0.0
+X associate with Y	Y refer to X	0.0
+X associate with Y	Y relate to X	0.0
+X associate with Y	Y result from X	0.0
+X associate with Y	Y result in X	0.0
+X associate with Y	Y see in X	0.0
+X attack Y	X affect Y	0.32803533022286924
+X attack Y	X involve Y	0.0
+X attack Y	X occur in Y	0.0
+X attack Y	Y affect by X	0.13521323991702336
+X attack with Y	X have Y	0.0
+X attack with Y	X suffer from Y	0.0
+X attend with Y	X accompany by Y	0.48849175059442
+X attend with Y	X associate with Y	0.3451622212596058
+X attribute to Y	X associate with Y	0.4113747367700623
+X attribute to Y	X be in Y	0.4213732382604863
+X attribute to Y	X cause by Y	0.0
+X attribute to Y	X follow Y	0.0
+X attribute to Y	X relate to Y	0.0
+X attribute to Y	X result from Y	0.0
+X attribute to Y	Y associate with X	0.29447887965998387
+X attribute to Y	Y cause X	0.0
+X attribute to Y	Y produce X	0.0
+X base on Y	X compose of Y	0.0
+X base on Y	X contain Y	0.0
+X base on Y	X make from Y	0.0
+X base on Y	X prepare from Y	0.0
+X be after Y	X follow Y	0.0
+X be after Y	Y follow by X	0.0
+X be against Y	X be for Y	0.38572579204116436
+X be against Y	X cover Y	0.0
+X be against Y	X destroy Y	0.0
+X be against Y	X eliminate Y	0.0
+X be against Y	X eradicate Y	0.0
+X be against Y	X kill Y	0.0
+X be against Y	X use against Y	0.0
+X be against Y	X use for Y	0.0
+X be against Y	X use in Y	0.0
+X be against Y	X wipe Y	0.0
+X be against Y	Y affect by X	0.28394796430762564
+X be against Y	Y control by X	0.0
+X be against Y	Y control with X	0.0
+X be against Y	Y kill by X	0.0
+X be against Y	Y respond to X	0.0
+X be against Y	Y treat by X	0.0
+X be against Y	Y treat with X	0.0
+X be during Y	X be in Y	0.3558190153535141
+X be during Y	X occur during Y	0.0
+X be during Y	X occur in Y	0.0
+X be for Y	X administer for Y	0.26712613981770145
+X be for Y	X afford Y	0.4824183896567427
+X be for Y	X be against Y	0.38572579204116436
+X be for Y	X bring Y	0.0
+X be for Y	X develop for Y	0.0
+X be for Y	X give Y	0.0
+X be for Y	X give for Y	0.0
+X be for Y	X help Y	0.0
+X be for Y	X indicate for Y	0.0
+X be for Y	X kill Y	0.0
+X be for Y	X license for Y	0.0
+X be for Y	X need for Y	0.0
+X be for Y	X offer Y	0.0
+X be for Y	X order for Y	0.0
+X be for Y	X prescribe for Y	0.0
+X be for Y	X provide Y	0.0
+X be for Y	X recommend for Y	0.0
+X be for Y	X reduce Y	0.0
+X be for Y	X relieve Y	0.0
+X be for Y	X require for Y	0.0
+X be for Y	X take for Y	0.0
+X be for Y	X use for Y	0.0
+X be for Y	X use in Y	0.0
+X be for Y	Y achieve with X	0.22905578337426866
+X be for Y	Y be with X	0.4549722794444008
+X be for Y	Y manage with X	0.0
+X be for Y	Y obtain with X	0.0
+X be for Y	Y provide by X	0.0
+X be for Y	Y relieve by X	0.0
+X be for Y	Y relieve with X	0.0
+X be for Y	Y respond to X	0.0
+X be from Y	Y cause X	0.0
+X be in Y	X administer for Y	0.22004436625082413
+X be in Y	X administer to Y	0.2831388216203128
+X be in Y	X affect Y	0.455372022936602
+X be in Y	X alleviate Y	0.23450355423081712
+X be in Y	X attribute to Y	0.4213732382604863
+X be in Y	X be during Y	0.3558190153535141
+X be in Y	X cause by Y	0.0
+X be in Y	X characterize by Y	0.0
+X be in Y	X control Y	0.0
+X be in Y	X describe as Y	0.0
+X be in Y	X develop in Y	0.0
+X be in Y	X enter Y	0.0
+X be in Y	X find in Y	0.0
+X be in Y	X follow Y	0.0
+X be in Y	X help Y	0.0
+X be in Y	X indicate Y	0.0
+X be in Y	X need for Y	0.0
+X be in Y	X observe in Y	0.0
+X be in Y	X occur during Y	0.0
+X be in Y	X occur in Y	0.0
+X be in Y	X order for Y	0.0
+X be in Y	X recommend for Y	0.0
+X be in Y	X reduce Y	0.0
+X be in Y	X relieve Y	0.0
+X be in Y	X require for Y	0.0
+X be in Y	X result from Y	0.0
+X be in Y	X see in Y	0.0
+X be in Y	X suggest Y	0.0
+X be in Y	X transmit by Y	0.0
+X be in Y	Y achieve with X	0.18562039572455236
+X be in Y	Y affect by X	0.19465865012665656
+X be in Y	Y be with X	0.4301059603451821
+X be in Y	Y carry X	0.0
+X be in Y	Y cause X	0.0
+X be in Y	Y complicate with X	0.0
+X be in Y	Y consist of X	0.0
+X be in Y	Y contain X	0.0
+X be in Y	Y control by X	0.0
+X be in Y	Y control with X	0.0
+X be in Y	Y cure by X	0.0
+X be in Y	Y develop X	0.0
+X be in Y	Y have X	0.0
+X be in Y	Y infect with X	0.0
+X be in Y	Y manage with X	0.0
+X be in Y	Y present as X	0.0
+X be in Y	Y present with X	0.0
+X be in Y	Y receive X	0.0
+X be in Y	Y relieve by X	0.0
+X be in Y	Y relieve with X	0.0
+X be in Y	Y suffer from X	0.0
+X be in Y	Y suggest X	0.0
+X be in Y	Y transmit X	0.0
+X be in Y	Y use X	0.0
+X be of Y	X have Y	0.0
+X be with Y	X begin with Y	0.4069572077280566
+X be with Y	X characterize by Y	0.0
+X be with Y	Y affect X	0.4263852091132977
+X be with Y	Y be for X	0.46530479923583185
+X be with Y	Y be in X	0.4987752033167649
+X be with Y	Y characterize by X	0.0
+X be with Y	Y indicate for X	0.0
+X be with Y	Y use for X	0.0
+X be with Y	Y use in X	0.0
+X begin as Y	X associate with Y	0.23061031579624935
+X begin as Y	X cause Y	0.0
+X begin as Y	Y associate with X	0.22290367774407038
+X begin as Y	Y complicate X	0.0
+X begin with Y	X be with Y	0.4069572077280566
+X begin with Y	X characterize by Y	0.0
+X begin with Y	X consist of Y	0.0
+X begin with Y	X present with Y	0.0
+X begin with Y	Y cause by X	0.0
+X begin with Y	Y indicate X	0.0
+X begin with Y	Y suggest X	0.0
+X break Y	X convert Y	0.0
+X break Y	X digest Y	0.0
+X break Y	X hydrolyze Y	0.0
+X bring Y	X afford Y	0.0
+X bring Y	X be for Y	0.0
+X bring Y	X cause Y	0.0
+X bring Y	X give Y	0.0
+X bring Y	X prescribe for Y	0.0
+X bring Y	X produce Y	0.0
+X bring Y	X provide Y	0.0
+X bring Y	X use for Y	0.0
+X bring Y	Y achieve with X	0.0
+X bring Y	Y obtain with X	0.0
+X carry Y	X contain Y	0.0
+X carry Y	X have Y	0.0
+X carry Y	X infect with Y	0.0
+X carry Y	X spread Y	0.0
+X carry Y	X transmit Y	0.0
+X carry Y	Y be in X	0.0
+X carry Y	Y carry by X	0.0
+X carry Y	Y find in X	0.0
+X carry Y	Y occur in X	0.0
+X carry Y	Y spread by X	0.0
+X carry Y	Y transmit by X	0.0
+X carry by Y	X spread by Y	0.0
+X carry by Y	X transmit by Y	0.0
+X carry by Y	Y carry X	0.0
+X carry by Y	Y infect with X	0.0
+X carry by Y	Y transmit X	0.0
+X cause Y	X accompany Y	0.0
+X cause Y	X accompany by Y	0.0
+X cause Y	X accompany with Y	0.0
+X cause Y	X affect Y	0.0
+X cause Y	X aggravate Y	0.0
+X cause Y	X associate Y	0.0
+X cause Y	X attend with Y	0.0
+X cause Y	X begin as Y	0.0
+X cause Y	X bring Y	0.0
+X cause Y	X complicate Y	0.0
+X cause Y	X contribute to Y	0.0
+X cause Y	X develop Y	0.0
+X cause Y	X develop with Y	0.0
+X cause Y	X exacerbate Y	0.0
+X cause Y	X follow by Y	0.0
+X cause Y	X give Y	0.0
+X cause Y	X give to Y	0.0
+X cause Y	X imply Y	0.0
+X cause Y	X increase Y	0.0
+X cause Y	X induce Y	0.0
+X cause Y	X involve Y	0.0
+X cause Y	X lead to Y	0.0
+X cause Y	X manifest as Y	0.0
+X cause Y	X manifest by Y	0.0
+X cause Y	X mean Y	0.0
+X cause Y	X occur with Y	0.0
+X cause Y	X precede by Y	0.0
+X cause Y	X precipitate Y	0.0
+X cause Y	X predispose to Y	0.0
+X cause Y	X present with Y	0.0
+X cause Y	X produce Y	0.0
+X cause Y	X result from Y	0.0
+X cause Y	X result in Y	0.0
+X cause Y	X start with Y	0.0
+X cause Y	X suggest Y	0.0
+X cause Y	X trigger Y	0.0
+X cause Y	Y accompany X	0.0
+X cause Y	Y attribute to X	0.0
+X cause Y	Y be from X	0.0
+X cause Y	Y be in X	0.0
+X cause Y	Y cause by X	0.0
+X cause Y	Y characterize by X	0.0
+X cause Y	Y develop after X	0.0
+X cause Y	Y develop from X	0.0
+X cause Y	Y follow X	0.0
+X cause Y	Y induce by X	0.0
+X cause Y	Y mean X	0.0
+X cause Y	Y occur after X	0.0
+X cause Y	Y occur during X	0.0
+X cause Y	Y occur from X	0.0
+X cause Y	Y occur in X	0.0
+X cause Y	Y occur with X	0.0
+X cause Y	Y precipitate by X	0.0
+X cause Y	Y produce by X	0.0
+X cause Y	Y relate to X	0.0
+X cause Y	Y result from X	0.0
+X cause Y	Y result in X	0.0
+X cause Y	Y see in X	0.0
+X cause by Y	X accompany Y	0.0
+X cause by Y	X accompany by Y	0.0
+X cause by Y	X attribute to Y	0.0
+X cause by Y	X be in Y	0.0
+X cause by Y	X characterize by Y	0.0
+X cause by Y	X complicate Y	0.0
+X cause by Y	X define as Y	0.0
+X cause by Y	X develop after Y	0.0
+X cause by Y	X develop from Y	0.0
+X cause by Y	X follow Y	0.0
+X cause by Y	X indicate Y	0.0
+X cause by Y	X involve Y	0.0
+X cause by Y	X mean Y	0.0
+X cause by Y	X occur after Y	0.0
+X cause by Y	X occur from Y	0.0
+X cause by Y	X occur in Y	0.0
+X cause by Y	X occur with Y	0.0
+X cause by Y	X produce by Y	0.0
+X cause by Y	X refer to Y	0.0
+X cause by Y	X relate to Y	0.0
+X cause by Y	X result from Y	0.0
+X cause by Y	X see in Y	0.0
+X cause by Y	X suggest Y	0.0
+X cause by Y	Y accompany by X	0.0
+X cause by Y	Y aggravate X	0.0
+X cause by Y	Y associate with X	0.0
+X cause by Y	Y begin with X	0.0
+X cause by Y	Y cause X	0.0
+X cause by Y	Y characterize by X	0.0
+X cause by Y	Y complicate by X	0.0
+X cause by Y	Y contribute to X	0.0
+X cause by Y	Y develop X	0.0
+X cause by Y	Y develop into X	0.0
+X cause by Y	Y follow by X	0.0
+X cause by Y	Y give X	0.0
+X cause by Y	Y induce X	0.0
+X cause by Y	Y lead to X	0.0
+X cause by Y	Y manifest as X	0.0
+X cause by Y	Y manifest by X	0.0
+X cause by Y	Y occur in X	0.0
+X cause by Y	Y occur with X	0.0
+X cause by Y	Y predispose to X	0.0
+X cause by Y	Y present with X	0.0
+X cause by Y	Y produce X	0.0
+X cause by Y	Y progress to X	0.0
+X cause by Y	Y result in X	0.0
+X cause by Y	Y suggest X	0.0
+X characterize by Y	X appear as Y	0.0
+X characterize by Y	X be in Y	0.0
+X characterize by Y	X be with Y	0.0
+X characterize by Y	X begin with Y	0.0
+X characterize by Y	X cause by Y	0.0
+X characterize by Y	X consist of Y	0.0
+X characterize by Y	X contribute to Y	0.0
+X characterize by Y	X give to Y	0.0
+X characterize by Y	X have Y	0.0
+X characterize by Y	X include Y	0.0
+X characterize by Y	X involve Y	0.0
+X characterize by Y	X lead to Y	0.0
+X characterize by Y	X manifest by Y	0.0
+X characterize by Y	X mean Y	0.0
+X characterize by Y	X occur in Y	0.0
+X characterize by Y	X present as Y	0.0
+X characterize by Y	X present with Y	0.0
+X characterize by Y	X result from Y	0.0
+X characterize by Y	X result in Y	0.0
+X characterize by Y	X start with Y	0.0
+X characterize by Y	Y be with X	0.0
+X characterize by Y	Y cause X	0.0
+X characterize by Y	Y cause by X	0.0
+X characterize by Y	Y find in X	0.0
+X characterize by Y	Y indicate X	0.0
+X characterize by Y	Y occur during X	0.0
+X characterize by Y	Y occur in X	0.0
+X characterize by Y	Y precede X	0.0
+X characterize by Y	Y relate to X	0.0
+X characterize by Y	Y result from X	0.0
+X characterize by Y	Y see in X	0.0
+X combine with Y	X administer with Y	0.0
+X combine with Y	X contain Y	0.0
+X combine with Y	X encounter Y	0.0
+X combine with Y	X join with Y	0.0
+X combine with Y	X meet Y	0.0
+X combine with Y	X unite with Y	0.0
+X combine with Y	X use as Y	0.0
+X combine with Y	X use with Y	0.0
+X combine with Y	Y combine with X	0.0
+X combine with Y	Y encounter X	0.0
+X combine with Y	Y include X	0.0
+X combine with Y	Y join with X	0.0
+X combine with Y	Y meet X	0.0
+X combine with Y	Y unite with X	0.0
+X combine with Y	Y use with X	0.0
+X come from Y	Y produce X	0.0
+X come with Y	X accompany by Y	0.0
+X come with Y	X associate with Y	0.0
+X come with Y	Y associate with X	0.0
+X complicate Y	X accompany Y	0.0
+X complicate Y	X cause Y	0.0
+X complicate Y	X cause by Y	0.0
+X complicate Y	X occur with Y	0.0
+X complicate Y	X precede by Y	0.0
+X complicate Y	X result from Y	0.0
+X complicate Y	Y accompany by X	0.0
+X complicate Y	Y begin as X	0.0
+X complicate Y	Y complicate by X	0.0
+X complicate Y	Y complicate with X	0.0
+X complicate Y	Y follow X	0.0
+X complicate Y	Y follow by X	0.0
+X complicate Y	Y lead to X	0.0
+X complicate Y	Y precede X	0.0
+X complicate by Y	X develop into Y	0.0
+X complicate by Y	X follow Y	0.0
+X complicate by Y	X follow by Y	0.0
+X complicate by Y	X lead to Y	0.0
+X complicate by Y	X progress to Y	0.0
+X complicate by Y	Y cause by X	0.0
+X complicate by Y	Y complicate X	0.0
+X complicate by Y	Y follow X	0.0
+X complicate by Y	Y result from X	0.0
+X complicate with Y	X associate with Y	0.0
+X complicate with Y	Y associate with X	0.0
+X complicate with Y	Y be in X	0.0
+X complicate with Y	Y complicate X	0.0
+X compose of Y	X base on Y	0.0
+X compose of Y	X consist of Y	0.0
+X compose of Y	X contain Y	0.0
+X compose of Y	X make from Y	0.0
+X compose of Y	X prepare from Y	0.0
+X compose of Y	Y use as X	0.0
+X confine to Y	X affect Y	0.0
+X confine to Y	X involve Y	0.0
+X confound with Y	X confuse with Y	0.0
+X confound with Y	X differ from Y	0.0
+X confound with Y	X mistake for Y	0.0
+X confound with Y	X resemble Y	0.0
+X confound with Y	X simulate Y	0.0
+X confound with Y	Y confound with X	0.0
+X confound with Y	Y confuse with X	0.0
+X confound with Y	Y distinguish from X	0.0
+X confound with Y	Y mistake for X	0.0
+X confound with Y	Y simulate X	0.0
+X confuse with Y	X confound with Y	0.0
+X confuse with Y	X differ from Y	0.0
+X confuse with Y	X differentiate from Y	0.0
+X confuse with Y	X distinguish from Y	0.0
+X confuse with Y	X mistake for Y	0.0
+X confuse with Y	Y confound with X	0.0
+X confuse with Y	Y differ from X	0.0
+X confuse with Y	Y distinguish from X	0.0
+X confuse with Y	Y resemble X	0.0
+X consist of Y	X begin with Y	0.0
+X consist of Y	X characterize by Y	0.0
+X consist of Y	X compose of Y	0.0
+X consist of Y	X contain Y	0.0
+X consist of Y	X have Y	0.0
+X consist of Y	X make from Y	0.0
+X consist of Y	X prepare from Y	0.0
+X consist of Y	Y be in X	0.0
+X consist of Y	Y use as X	0.0
+X contain Y	X base on Y	0.0
+X contain Y	X carry Y	0.0
+X contain Y	X combine with Y	0.0
+X contain Y	X compose of Y	0.0
+X contain Y	X consist of Y	0.0
+X contain Y	X have Y	0.0
+X contain Y	X include Y	0.0
+X contain Y	X make from Y	0.0
+X contain Y	X prepare from Y	0.0
+X contain Y	X provide Y	0.0
+X contain Y	X receive Y	0.0
+X contain Y	Y be in X	0.0
+X contain Y	Y find in X	0.0
+X contain Y	Y obtain from X	0.0
+X contain Y	Y occur in X	0.0
+X contain Y	Y use as X	0.0
+X contain Y	Y use in X	0.0
+X contract Y	X develop Y	0.0
+X contract Y	X get Y	0.0
+X contract Y	X have Y	0.0
+X contribute to Y	X associate with Y	0.0
+X contribute to Y	X cause Y	0.0
+X contribute to Y	X characterize by Y	0.0
+X contribute to Y	X lead to Y	0.0
+X contribute to Y	X produce Y	0.0
+X contribute to Y	X result in Y	0.0
+X contribute to Y	Y associate with X	0.0
+X contribute to Y	Y cause by X	0.0
+X contribute to Y	Y relate to X	0.0
+X contribute to Y	Y result from X	0.0
+X control Y	X alleviate Y	0.0
+X control Y	X be in Y	0.0
+X control Y	X cure Y	0.0
+X control Y	X decrease Y	0.0
+X control Y	X help Y	0.0
+X control Y	X indicate for Y	0.0
+X control Y	X mask Y	0.0
+X control Y	X need for Y	0.0
+X control Y	X order for Y	0.0
+X control Y	X prescribe for Y	0.0
+X control Y	X prevent Y	0.0
+X control Y	X provide from Y	0.0
+X control Y	X reduce Y	0.0
+X control Y	X relieve Y	0.0
+X control Y	X treat Y	0.0
+X control Y	Y control by X	0.0
+X control Y	Y control with X	0.0
+X control Y	Y cure with X	0.0
+X control Y	Y manage with X	0.0
+X control Y	Y relieve by X	0.0
+X control Y	Y relieve with X	0.0
+X control Y	Y require X	0.0
+X control Y	Y treat by X	0.0
+X control Y	Y treat with X	0.0
+X control by Y	X control with Y	0.0
+X control by Y	X cure with Y	0.0
+X control by Y	X manage with Y	0.0
+X control by Y	X overcome by Y	0.0
+X control by Y	X prevent by Y	0.0
+X control by Y	X relieve by Y	0.0
+X control by Y	X relieve with Y	0.0
+X control by Y	X require Y	0.0
+X control by Y	X treat by Y	0.0
+X control by Y	X treat with Y	0.0
+X control by Y	Y alleviate X	0.0
+X control by Y	Y be against X	0.0
+X control by Y	Y be in X	0.0
+X control by Y	Y control X	0.0
+X control by Y	Y cure X	0.0
+X control by Y	Y eradicate X	0.0
+X control by Y	Y help X	0.0
+X control by Y	Y indicate for X	0.0
+X control by Y	Y mask X	0.0
+X control by Y	Y need for X	0.0
+X control by Y	Y order for X	0.0
+X control by Y	Y prescribe for X	0.0
+X control by Y	Y prevent X	0.0
+X control by Y	Y provide from X	0.0
+X control by Y	Y reduce X	0.0
+X control by Y	Y relieve X	0.0
+X control with Y	X control by Y	0.0
+X control with Y	X cure with Y	0.0
+X control with Y	X manage with Y	0.0
+X control with Y	X relieve by Y	0.0
+X control with Y	X relieve with Y	0.0
+X control with Y	X require Y	0.0
+X control with Y	X treat by Y	0.0
+X control with Y	X treat with Y	0.0
+X control with Y	Y alleviate X	0.0
+X control with Y	Y be against X	0.0
+X control with Y	Y be in X	0.0
+X control with Y	Y control X	0.0
+X control with Y	Y cure X	0.0
+X control with Y	Y decrease X	0.0
+X control with Y	Y eliminate X	0.0
+X control with Y	Y eradicate X	0.0
+X control with Y	Y help X	0.0
+X control with Y	Y indicate for X	0.0
+X control with Y	Y kill X	0.0
+X control with Y	Y mask X	0.0
+X control with Y	Y need for X	0.0
+X control with Y	Y order for X	0.0
+X control with Y	Y prescribe for X	0.0
+X control with Y	Y prevent X	0.0
+X control with Y	Y provide from X	0.0
+X control with Y	Y reduce X	0.0
+X control with Y	Y relieve X	0.0
+X control with Y	Y take for X	0.0
+X control with Y	Y treat X	0.0
+X control with Y	Y use against X	0.0
+X control with Y	Y wipe X	0.0
+X convert Y	X break Y	0.0
+X convert Y	X digest Y	0.0
+X convert Y	X hydrolyze Y	0.0
+X convert Y	Y convert by X	0.0
+X convert by Y	X metabolize by Y	0.0
+X convert by Y	Y convert X	0.0
+X convert into Y	X convert to Y	0.0
+X convert into Y	X metabolize to Y	0.0
+X convert into Y	X reduce to Y	0.0
+X convert into Y	Y derive from X	0.0
+X convert into Y	Y form from X	0.0
+X convert to Y	X convert into Y	0.0
+X convert to Y	X metabolize to Y	0.0
+X convert to Y	X reduce to Y	0.0
+X convert to Y	Y form from X	0.0
+X correct Y	X use for Y	0.0
+X correct Y	Y correct by X	0.0
+X correct Y	Y correct with X	0.0
+X correct Y	Y relieve by X	0.0
+X correct Y	Y require X	0.0
+X correct Y	Y treat by X	0.0
+X correct Y	Y treat with X	0.0
+X correct by Y	X correct with Y	0.0
+X correct by Y	X relieve by Y	0.0
+X correct by Y	X require Y	0.0
+X correct by Y	X treat by Y	0.0
+X correct by Y	X treat with Y	0.0
+X correct by Y	Y correct X	0.0
+X correct by Y	Y give for X	0.0
+X correct by Y	Y prevent X	0.0
+X correct by Y	Y relieve X	0.0
+X correct by Y	Y use for X	0.0
+X correct with Y	X correct by Y	0.0
+X correct with Y	X require Y	0.0
+X correct with Y	X treat by Y	0.0
+X correct with Y	X treat with Y	0.0
+X correct with Y	Y correct X	0.0
+X correct with Y	Y use for X	0.0
+X cover Y	X be against Y	0.0
+X cover Y	X kill Y	0.0
+X cover Y	Y treat with X	0.0
+X create Y	X produce Y	0.0
+X cure Y	X control Y	0.0
+X cure Y	X prescribe for Y	0.0
+X cure Y	Y control by X	0.0
+X cure Y	Y control with X	0.0
+X cure Y	Y cure by X	0.0
+X cure Y	Y cure with X	0.0
+X cure Y	Y relieve by X	0.0
+X cure Y	Y require X	0.0
+X cure Y	Y treat by X	0.0
+X cure Y	Y treat with X	0.0
+X cure by Y	X prevent by Y	0.0
+X cure by Y	X require Y	0.0
+X cure by Y	X respond to Y	0.0
+X cure by Y	X treat by Y	0.0
+X cure by Y	X treat with Y	0.0
+X cure by Y	Y be in X	0.0
+X cure by Y	Y cure X	0.0
+X cure by Y	Y eliminate X	0.0
+X cure by Y	Y relieve X	0.0
+X cure with Y	X control by Y	0.0
+X cure with Y	X control with Y	0.0
+X cure with Y	X treat by Y	0.0
+X cure with Y	X treat with Y	0.0
+X cure with Y	Y control X	0.0
+X cure with Y	Y cure X	0.0
+X decrease Y	X alleviate Y	0.0
+X decrease Y	X control Y	0.0
+X decrease Y	X help Y	0.0
+X decrease Y	X reduce Y	0.0
+X decrease Y	X relieve Y	0.0
+X decrease Y	X use for Y	0.0
+X decrease Y	Y control with X	0.0
+X decrease Y	Y relieve by X	0.0
+X decrease Y	Y respond to X	0.0
+X decrease Y	Y treat with X	0.0
+X define as Y	X cause by Y	0.0
+X define as Y	X imply Y	0.0
+X define as Y	X involve Y	0.0
+X define as Y	X mean Y	0.0
+X define as Y	X refer to Y	0.0
+X define as Y	Y associate with X	0.0
+X derive from Y	X form from Y	0.0
+X derive from Y	X isolate from Y	0.0
+X derive from Y	X make from Y	0.0
+X derive from Y	X obtain from Y	0.0
+X derive from Y	X prepare from Y	0.0
+X derive from Y	X produce by Y	0.0
+X derive from Y	X synthesize from Y	0.0
+X derive from Y	Y convert into X	0.0
+X derive from Y	Y produce X	0.0
+X derive from Y	Y use as X	0.0
+X describe as Y	X be in Y	0.0
+X destroy Y	X attack Y	0.0
+X destroy Y	X be against Y	0.0
+X destroy Y	X kill Y	0.0
+X destroy Y	Y affect by X	0.0
+X destroy Y	Y kill by X	0.0
+X develop Y	X associate with Y	0.0
+X develop Y	X cause Y	0.0
+X develop Y	X contract Y	0.0
+X develop Y	X expose to Y	0.0
+X develop Y	X have Y	0.0
+X develop Y	X produce Y	0.0
+X develop Y	X suffer from Y	0.0
+X develop Y	X transmit Y	0.0
+X develop Y	Y affect X	0.0
+X develop Y	Y be in X	0.0
+X develop Y	Y cause by X	0.0
+X develop Y	Y find in X	0.0
+X develop Y	Y occur in X	0.0
+X develop after Y	X cause by Y	0.0
+X develop after Y	X follow Y	0.0
+X develop after Y	Y cause X	0.0
+X develop after Y	Y follow by X	0.0
+X develop for Y	X be for Y	0.0
+X develop for Y	X indicate for Y	0.0
+X develop for Y	X recommend for Y	0.0
+X develop for Y	X use for Y	0.0
+X develop for Y	X use in Y	0.0
+X develop from Y	X associate with Y	0.0
+X develop from Y	X cause by Y	0.0
+X develop from Y	X follow Y	0.0
+X develop from Y	X result from Y	0.0
+X develop from Y	Y cause X	0.0
+X develop from Y	Y lead to X	0.0
+X develop from Y	Y produce X	0.0
+X develop from Y	Y result in X	0.0
+X develop in Y	X affect Y	0.0
+X develop in Y	X be in Y	0.0
+X develop in Y	X occur in Y	0.0
+X develop in Y	Y affect with X	0.0
+X develop into Y	X associate with Y	0.0
+X develop into Y	X complicate by Y	0.0
+X develop into Y	X lead to Y	0.0
+X develop into Y	X progress to Y	0.0
+X develop into Y	X suggest Y	0.0
+X develop into Y	X turn into Y	0.0
+X develop into Y	X turn to Y	0.0
+X develop into Y	Y associate with X	0.0
+X develop into Y	Y cause by X	0.0
+X develop with Y	X accompany by Y	0.0
+X develop with Y	X associate with Y	0.0
+X develop with Y	Y accompany X	0.0
+X develop with Y	Y associate with X	0.0
+X die from Y	X die of Y	0.0
+X die from Y	X get Y	0.0
+X die from Y	Y kill X	0.0
+X die of Y	X develop Y	0.0
+X die of Y	X die from Y	0.0
+X die of Y	X expose to Y	0.0
+X die of Y	X get Y	0.0
+X die of Y	X have Y	0.0
+X die of Y	X suffer from Y	0.0
+X die of Y	Y kill X	0.0
+X differ from Y	X distinguish from Y	0.0
+X differ from Y	Y differ from X	0.0
+X differ from Y	Y distinguish from X	0.0
+X digest Y	X break Y	0.0
+X digest Y	X convert Y	0.0
+X digest Y	X hydrolyze Y	0.0
+X discharge Y	X produce Y	0.0
+X discover Y	X find Y	0.0
+X discover Y	X invent Y	0.0
+X distinguish from Y	X differ from Y	0.0
+X distinguish from Y	Y differ from X	0.0
+X distinguish from Y	Y distinguish from X	0.0
+X ejaculate Y	X have Y	0.0
+X ejaculate Y	X produce Y	0.0
+X eliminate Y	X be against Y	0.0
+X eliminate Y	X eradicate Y	0.0
+X eliminate Y	X kill Y	0.0
+X eliminate Y	X prevent Y	0.0
+X eliminate Y	X use against Y	0.0
+X eliminate Y	Y affect by X	0.0
+X eliminate Y	Y control with X	0.0
+X eliminate Y	Y cure by X	0.0
+X eliminate Y	Y prevent by X	0.0
+X eliminate Y	Y respond to X	0.0
+X eliminate Y	Y treat by X	0.0
+X eliminate Y	Y treat with X	0.0
+X employ as Y	X use as Y	0.0
+X encounter Y	X combine with Y	0.0
+X encounter Y	X meet Y	0.0
+X encounter Y	X unite with Y	0.0
+X encounter Y	Y combine with X	0.0
+X encounter Y	Y join with X	0.0
+X encounter Y	Y meet X	0.0
+X encounter Y	Y unite with X	0.0
+X enter Y	X be in Y	0.0
+X enter Y	X fertilize Y	0.0
+X enter Y	X find in Y	0.0
+X enter Y	X get into Y	0.0
+X enter Y	X inject into Y	0.0
+X enter Y	X pass through Y	0.0
+X enter Y	X penetrate Y	0.0
+X enter Y	X reach Y	0.0
+X enter Y	X release into Y	0.0
+X enter Y	Y fertilize by X	0.0
+X enter Y	Y penetrate by X	0.0
+X eradicate Y	X be against Y	0.0
+X eradicate Y	X eliminate Y	0.0
+X eradicate Y	X kill Y	0.0
+X eradicate Y	X use against Y	0.0
+X eradicate Y	Y affect by X	0.0
+X eradicate Y	Y control by X	0.0
+X eradicate Y	Y control with X	0.0
+X eradicate Y	Y treat by X	0.0
+X eradicate Y	Y treat with X	0.0
+X exacerbate Y	X cause Y	0.0
+X expose to Y	X develop Y	0.0
+X expose to Y	X give Y	0.0
+X fertilize Y	X enter Y	0.0
+X fertilize Y	X inject into Y	0.0
+X fertilize Y	X penetrate Y	0.0
+X fertilize Y	Y fertilize by X	0.0
+X fertilize Y	Y penetrate by X	0.0
+X fertilize by Y	X penetrate by Y	0.0
+X fertilize by Y	Y enter X	0.0
+X fertilize by Y	Y fertilize X	0.0
+X fertilize by Y	Y inject into X	0.0
+X fertilize by Y	Y penetrate X	0.0
+X fight Y	X prevent Y	0.0
+X find Y	X discover Y	0.0
+X find Y	X invent Y	0.0
+X find Y	X produce Y	0.0
+X find in Y	X appear in Y	0.0
+X find in Y	X associate with Y	0.0
+X find in Y	X be in Y	0.0
+X find in Y	X enter Y	0.0
+X find in Y	X isolate from Y	0.0
+X find in Y	X obtain from Y	0.0
+X find in Y	X occur in Y	0.0
+X find in Y	X see in Y	0.0
+X find in Y	X transmit by Y	0.0
+X find in Y	Y associate with X	0.0
+X find in Y	Y carry X	0.0
+X find in Y	Y characterize by X	0.0
+X find in Y	Y contain X	0.0
+X find in Y	Y develop X	0.0
+X find in Y	Y have X	0.0
+X find in Y	Y include X	0.0
+X find in Y	Y infect with X	0.0
+X find in Y	Y present X	0.0
+X find in Y	Y transmit X	0.0
+X follow Y	X accompany Y	0.0
+X follow Y	X accompany by Y	0.0
+X follow Y	X associate with Y	0.0
+X follow Y	X attribute to Y	0.0
+X follow Y	X be after Y	0.0
+X follow Y	X be in Y	0.0
+X follow Y	X cause by Y	0.0
+X follow Y	X characterize by Y	0.0
+X follow Y	X complicate by Y	0.0
+X follow Y	X develop after Y	0.0
+X follow Y	X develop from Y	0.0
+X follow Y	X occur after Y	0.0
+X follow Y	X occur from Y	0.0
+X follow Y	X result from Y	0.0
+X follow Y	X suggest Y	0.0
+X follow Y	Y accompany X	0.0
+X follow Y	Y accompany by X	0.0
+X follow Y	Y associate with X	0.0
+X follow Y	Y cause X	0.0
+X follow Y	Y complicate X	0.0
+X follow Y	Y complicate by X	0.0
+X follow Y	Y follow X	0.0
+X follow Y	Y follow by X	0.0
+X follow Y	Y give to X	0.0
+X follow Y	Y lead to X	0.0
+X follow Y	Y occur with X	0.0
+X follow Y	Y precede X	0.0
+X follow Y	Y present as X	0.0
+X follow Y	Y produce X	0.0
+X follow Y	Y result in X	0.0
+X follow Y	Y suggest X	0.0
+X follow Y	Y terminate in X	0.0
+X follow by Y	X accompany by Y	0.0
+X follow by Y	X alternate with Y	0.0
+X follow by Y	X associate with Y	0.0
+X follow by Y	X cause Y	0.0
+X follow by Y	X complicate by Y	0.0
+X follow by Y	X give to Y	0.0
+X follow by Y	X lead to Y	0.0
+X follow by Y	X precede Y	0.0
+X follow by Y	X produce Y	0.0
+X follow by Y	X result in Y	0.0
+X follow by Y	Y accompany X	0.0
+X follow by Y	Y accompany by X	0.0
+X follow by Y	Y alternate with X	0.0
+X follow by Y	Y associate with X	0.0
+X follow by Y	Y be after X	0.0
+X follow by Y	Y cause by X	0.0
+X follow by Y	Y complicate X	0.0
+X follow by Y	Y develop after X	0.0
+X follow by Y	Y follow X	0.0
+X follow by Y	Y follow by X	0.0
+X follow by Y	Y give to X	0.0
+X follow by Y	Y occur after X	0.0
+X follow by Y	Y occur with X	0.0
+X follow by Y	Y succeed to X	0.0
+X form from Y	X derive from Y	0.0
+X form from Y	Y convert into X	0.0
+X form from Y	Y convert to X	0.0
+X form from Y	Y metabolize to X	0.0
+X get Y	X have Y	0.0
+X get into Y	X enter Y	0.0
+X get into Y	X inject into Y	0.0
+X give Y	X afford Y	0.0
+X give Y	X be for Y	0.0
+X give Y	X bring Y	0.0
+X give Y	X cause Y	0.0
+X give Y	X expose to Y	0.0
+X give Y	X indicate for Y	0.0
+X give Y	X lead to Y	0.0
+X give Y	X offer Y	0.0
+X give Y	X prescribe for Y	0.0
+X give Y	X provide Y	0.0
+X give Y	X recommend for Y	0.0
+X give Y	X treat with Y	0.0
+X give Y	X use for Y	0.0
+X give Y	Y achieve with X	0.0
+X give Y	Y afford by X	0.0
+X give Y	Y associate with X	0.0
+X give Y	Y cause by X	0.0
+X give Y	Y give to X	0.0
+X give Y	Y obtain from X	0.0
+X give Y	Y obtain with X	0.0
+X give Y	Y occur in X	0.0
+X give Y	Y produce by X	0.0
+X give Y	Y provide by X	0.0
+X give Y	Y use in X	0.0
+X give as Y	X use as Y	0.0
+X give before Y	X administer before Y	0.0
+X give before Y	X start before Y	0.0
+X give during Y	X use during Y	0.0
+X give for Y	X administer for Y	0.0
+X give for Y	X alleviate Y	0.0
+X give for Y	X be for Y	0.0
+X give for Y	X help Y	0.0
+X give for Y	X need for Y	0.0
+X give for Y	X order for Y	0.0
+X give for Y	X prescribe for Y	0.0
+X give for Y	X provide from Y	0.0
+X give for Y	X recommend for Y	0.0
+X give for Y	X reduce Y	0.0
+X give for Y	X relieve Y	0.0
+X give for Y	X require for Y	0.0
+X give for Y	X take for Y	0.0
+X give for Y	X use for Y	0.0
+X give for Y	X use in Y	0.0
+X give for Y	Y correct by X	0.0
+X give for Y	Y manage with X	0.0
+X give for Y	Y relieve by X	0.0
+X give for Y	Y relieve with X	0.0
+X give for Y	Y require X	0.0
+X give for Y	Y respond to X	0.0
+X give to Y	X administer to Y	0.0
+X give to Y	X alternate with Y	0.0
+X give to Y	X associate with Y	0.0
+X give to Y	X cause Y	0.0
+X give to Y	X characterize by Y	0.0
+X give to Y	X follow by Y	0.0
+X give to Y	X present with Y	0.0
+X give to Y	X result in Y	0.0
+X give to Y	X use for Y	0.0
+X give to Y	X use in Y	0.0
+X give to Y	Y alternate with X	0.0
+X give to Y	Y associate with X	0.0
+X give to Y	Y follow X	0.0
+X give to Y	Y follow by X	0.0
+X give to Y	Y give X	0.0
+X give to Y	Y result from X	0.0
+X give to Y	Y take X	0.0
+X give to Y	Y treat with X	0.0
+X give with Y	X use for Y	0.0
+X give with Y	Y treat with X	0.0
+X have Y	X be of Y	0.0
+X have Y	X carry Y	0.0
+X have Y	X characterize by Y	0.0
+X have Y	X consist of Y	0.0
+X have Y	X contain Y	0.0
+X have Y	X develop Y	0.0
+X have Y	X ejaculate Y	0.0
+X have Y	X get Y	0.0
+X have Y	X infect with Y	0.0
+X have Y	X provide Y	0.0
+X have Y	X receive Y	0.0
+X have Y	X transmit Y	0.0
+X have Y	X use as Y	0.0
+X have Y	X use for Y	0.0
+X have Y	Y affect X	0.0
+X have Y	Y be in X	0.0
+X have Y	Y find in X	0.0
+X have Y	Y obtain from X	0.0
+X have Y	Y occur in X	0.0
+X help Y	X administer for Y	0.0
+X help Y	X alleviate Y	0.0
+X help Y	X be for Y	0.0
+X help Y	X be in Y	0.0
+X help Y	X control Y	0.0
+X help Y	X decrease Y	0.0
+X help Y	X give for Y	0.0
+X help Y	X mask Y	0.0
+X help Y	X need for Y	0.0
+X help Y	X prescribe for Y	0.0
+X help Y	X reduce Y	0.0
+X help Y	X relieve Y	0.0
+X help Y	X take for Y	0.0
+X help Y	X use for Y	0.0
+X help Y	Y control by X	0.0
+X help Y	Y control with X	0.0
+X help Y	Y manage with X	0.0
+X help Y	Y relieve by X	0.0
+X help Y	Y relieve with X	0.0
+X help Y	Y respond to X	0.0
+X help Y	Y treat with X	0.0
+X help with Y	X relieve Y	0.0
+X herald by Y	X associate with Y	0.0
+X herald by Y	X precede by Y	0.0
+X hydrolyze Y	X break Y	0.0
+X hydrolyze Y	X convert Y	0.0
+X hydrolyze Y	X digest Y	0.0
+X hydrolyze Y	Y hydrolyze by X	0.0
+X hydrolyze by Y	Y hydrolyze X	0.0
+X imply Y	X cause Y	0.0
+X imply Y	X define as Y	0.0
+X imply Y	X mean Y	0.0
+X imply Y	X refer to Y	0.0
+X imply Y	Y associate with X	0.0
+X improve Y	X relieve Y	0.0
+X improve Y	Y relieve by X	0.0
+X improve Y	Y treat with X	0.0
+X inactivate Y	Y inactivate by X	0.0
+X inactivate by Y	Y inactivate X	0.0
+X include Y	X characterize by Y	0.0
+X include Y	X contain Y	0.0
+X include Y	X know as Y	0.0
+X include Y	Y act as X	0.0
+X include Y	Y combine with X	0.0
+X include Y	Y find in X	0.0
+X include Y	Y produce by X	0.0
+X include Y	Y refer to X	0.0
+X include Y	Y use for X	0.0
+X increase Y	X associate with Y	0.0
+X increase Y	X cause Y	0.0
+X increase Y	X produce Y	0.0
+X indicate Y	X associate with Y	0.0
+X indicate Y	X be in Y	0.0
+X indicate Y	X cause by Y	0.0
+X indicate Y	X occur in Y	0.0
+X indicate Y	X result from Y	0.0
+X indicate Y	X see in Y	0.0
+X indicate Y	X suggest Y	0.0
+X indicate Y	Y accompany by X	0.0
+X indicate Y	Y associate with X	0.0
+X indicate Y	Y begin with X	0.0
+X indicate Y	Y characterize by X	0.0
+X indicate Y	Y lead to X	0.0
+X indicate Y	Y manifest by X	0.0
+X indicate Y	Y occur with X	0.0
+X indicate Y	Y present as X	0.0
+X indicate Y	Y present with X	0.0
+X indicate Y	Y result in X	0.0
+X indicate for Y	X afford Y	0.0
+X indicate for Y	X be for Y	0.0
+X indicate for Y	X control Y	0.0
+X indicate for Y	X develop for Y	0.0
+X indicate for Y	X give Y	0.0
+X indicate for Y	X indicate in Y	0.0
+X indicate for Y	X license for Y	0.0
+X indicate for Y	X order for Y	0.0
+X indicate for Y	X prescribe for Y	0.0
+X indicate for Y	X provide Y	0.0
+X indicate for Y	X recommend for Y	0.0
+X indicate for Y	X reduce Y	0.0
+X indicate for Y	Y achieve with X	0.0
+X indicate for Y	Y be with X	0.0
+X indicate for Y	Y control by X	0.0
+X indicate for Y	Y control with X	0.0
+X indicate for Y	Y provide by X	0.0
+X indicate in Y	X indicate for Y	0.0
+X induce Y	X cause Y	0.0
+X induce Y	X produce Y	0.0
+X induce Y	X provide Y	0.0
+X induce Y	Y cause by X	0.0
+X induce by Y	Y cause X	0.0
+X induce by Y	Y lead to X	0.0
+X induce by Y	Y produce X	0.0
+X infect Y	X affect Y	0.0
+X infect Y	Y infect with X	0.0
+X infect with Y	X carry Y	0.0
+X infect with Y	X have Y	0.0
+X infect with Y	X transmit Y	0.0
+X infect with Y	Y be in X	0.0
+X infect with Y	Y carry by X	0.0
+X infect with Y	Y find in X	0.0
+X infect with Y	Y infect X	0.0
+X infect with Y	Y occur in X	0.0
+X infect with Y	Y transmit by X	0.0
+X inhibit Y	X prevent Y	0.0
+X inhibit Y	Y inhibit by X	0.0
+X inhibit by Y	Y inhibit X	0.0
+X inject into Y	X enter Y	0.0
+X inject into Y	X fertilize Y	0.0
+X inject into Y	X get into Y	0.0
+X inject into Y	X penetrate Y	0.0
+X inject into Y	Y fertilize by X	0.0
+X inject into Y	Y penetrate by X	0.0
+X introduce Y	X make Y	0.0
+X introduce Y	X produce Y	0.0
+X introduce Y	Y introduce by X	0.0
+X introduce by Y	Y introduce X	0.0
+X introduce by Y	Y make X	0.0
+X introduce by Y	Y produce X	0.0
+X invent Y	X discover Y	0.0
+X invent Y	X find Y	0.0
+X involve Y	X affect Y	0.0
+X involve Y	X associate with Y	0.0
+X involve Y	X attack Y	0.0
+X involve Y	X cause Y	0.0
+X involve Y	X cause by Y	0.0
+X involve Y	X characterize by Y	0.0
+X involve Y	X confine to Y	0.0
+X involve Y	X define as Y	0.0
+X involve Y	X mean Y	0.0
+X involve Y	X occur in Y	0.0
+X involve Y	X refer to Y	0.0
+X involve Y	Y affect by X	0.0
+X involve Y	Y affect in X	0.0
+X involve Y	Y associate with X	0.0
+X involve Y	Y suggest X	0.0
+X isolate from Y	X derive from Y	0.0
+X isolate from Y	X find in Y	0.0
+X isolate from Y	X obtain from Y	0.0
+X isolate from Y	X produce by Y	0.0
+X isolate from Y	Y produce X	0.0
+X join with Y	X combine with Y	0.0
+X join with Y	X meet Y	0.0
+X join with Y	X unite with Y	0.0
+X join with Y	Y combine with X	0.0
+X join with Y	Y encounter X	0.0
+X join with Y	Y meet X	0.0
+X join with Y	Y unite with X	0.0
+X kill Y	X be against Y	0.0
+X kill Y	X be for Y	0.0
+X kill Y	X cover Y	0.0
+X kill Y	X destroy Y	0.0
+X kill Y	X eliminate Y	0.0
+X kill Y	X eradicate Y	0.0
+X kill Y	X reduce Y	0.0
+X kill Y	X use against Y	0.0
+X kill Y	Y affect by X	0.0
+X kill Y	Y control with X	0.0
+X kill Y	Y die from X	0.0
+X kill Y	Y die of X	0.0
+X kill Y	Y get X	0.0
+X kill Y	Y kill by X	0.0
+X kill Y	Y respond to X	0.0
+X kill by Y	X affect by Y	0.0
+X kill by Y	Y be against X	0.0
+X kill by Y	Y destroy X	0.0
+X kill by Y	Y kill X	0.0
+X know as Y	X include Y	0.0
+X lead to Y	X cause Y	0.0
+X lead to Y	X characterize by Y	0.0
+X lead to Y	X complicate by Y	0.0
+X lead to Y	X contribute to Y	0.0
+X lead to Y	X develop into Y	0.0
+X lead to Y	X follow by Y	0.0
+X lead to Y	X give Y	0.0
+X lead to Y	X manifest by Y	0.0
+X lead to Y	X precipitate Y	0.0
+X lead to Y	X predispose to Y	0.0
+X lead to Y	X present as Y	0.0
+X lead to Y	X produce Y	0.0
+X lead to Y	X progress to Y	0.0
+X lead to Y	X result in Y	0.0
+X lead to Y	X suggest Y	0.0
+X lead to Y	X turn into Y	0.0
+X lead to Y	Y cause by X	0.0
+X lead to Y	Y complicate X	0.0
+X lead to Y	Y develop from X	0.0
+X lead to Y	Y follow X	0.0
+X lead to Y	Y indicate X	0.0
+X lead to Y	Y induce by X	0.0
+X lead to Y	Y occur after X	0.0
+X lead to Y	Y occur from X	0.0
+X lead to Y	Y occur with X	0.0
+X lead to Y	Y precede by X	0.0
+X lead to Y	Y prevent by X	0.0
+X lead to Y	Y produce by X	0.0
+X lead to Y	Y relate to X	0.0
+X lead to Y	Y result from X	0.0
+X lead to Y	Y suggest X	0.0
+X license for Y	X be for Y	0.0
+X license for Y	X indicate for Y	0.0
+X license for Y	X recommend for Y	0.0
+X license for Y	X use for Y	0.0
+X license for Y	X use in Y	0.0
+X make Y	X introduce Y	0.0
+X make Y	X manufacture Y	0.0
+X make Y	X produce Y	0.0
+X make Y	X release Y	0.0
+X make Y	Y introduce by X	0.0
+X make Y	Y produce by X	0.0
+X make Y	Y produce in X	0.0
+X make by Y	Y produce X	0.0
+X make from Y	X base on Y	0.0
+X make from Y	X compose of Y	0.0
+X make from Y	X consist of Y	0.0
+X make from Y	X contain Y	0.0
+X make from Y	X derive from Y	0.0
+X make from Y	X make of Y	0.0
+X make from Y	X prepare from Y	0.0
+X make from Y	Y use as X	0.0
+X make of Y	X make from Y	0.0
+X manage with Y	X control by Y	0.0
+X manage with Y	X control with Y	0.0
+X manage with Y	X relieve by Y	0.0
+X manage with Y	X relieve with Y	0.0
+X manage with Y	X respond to Y	0.0
+X manage with Y	X treat by Y	0.0
+X manage with Y	X treat with Y	0.0
+X manage with Y	Y alleviate X	0.0
+X manage with Y	Y be for X	0.0
+X manage with Y	Y be in X	0.0
+X manage with Y	Y control X	0.0
+X manage with Y	Y give for X	0.0
+X manage with Y	Y help X	0.0
+X manage with Y	Y mask X	0.0
+X manage with Y	Y need for X	0.0
+X manage with Y	Y prescribe for X	0.0
+X manage with Y	Y reduce X	0.0
+X manage with Y	Y relieve X	0.0
+X manage with Y	Y require for X	0.0
+X manage with Y	Y use for X	0.0
+X manifest as Y	X associate with Y	0.0
+X manifest as Y	X cause Y	0.0
+X manifest as Y	X produce Y	0.0
+X manifest as Y	Y associate with X	0.0
+X manifest as Y	Y cause by X	0.0
+X manifest as Y	Y result from X	0.0
+X manifest by Y	X associate with Y	0.0
+X manifest by Y	X cause Y	0.0
+X manifest by Y	X characterize by Y	0.0
+X manifest by Y	X lead to Y	0.0
+X manifest by Y	X present with Y	0.0
+X manifest by Y	X produce Y	0.0
+X manifest by Y	X result in Y	0.0
+X manifest by Y	Y associate with X	0.0
+X manifest by Y	Y cause by X	0.0
+X manifest by Y	Y indicate X	0.0
+X manifest by Y	Y result from X	0.0
+X manifest by Y	Y see in X	0.0
+X manifest by Y	Y suggest X	0.0
+X manufacture Y	X make Y	0.0
+X manufacture Y	X produce Y	0.0
+X manufacture Y	X release Y	0.0
+X manufacture Y	Y produce by X	0.0
+X mask Y	X alleviate Y	0.0
+X mask Y	X control Y	0.0
+X mask Y	X help Y	0.0
+X mask Y	X reduce Y	0.0
+X mask Y	X relieve Y	0.0
+X mask Y	X use for Y	0.0
+X mask Y	Y control by X	0.0
+X mask Y	Y control with X	0.0
+X mask Y	Y manage with X	0.0
+X mask Y	Y relieve by X	0.0
+X mask Y	Y relieve with X	0.0
+X mask Y	Y respond to X	0.0
+X mask Y	Y treat by X	0.0
+X mask Y	Y treat with X	0.0
+X mean Y	X accompany by Y	0.0
+X mean Y	X associate with Y	0.0
+X mean Y	X cause Y	0.0
+X mean Y	X cause by Y	0.0
+X mean Y	X characterize by Y	0.0
+X mean Y	X define as Y	0.0
+X mean Y	X imply Y	0.0
+X mean Y	X involve Y	0.0
+X mean Y	X refer to Y	0.0
+X mean Y	X result from Y	0.0
+X mean Y	Y accompany X	0.0
+X mean Y	Y associate with X	0.0
+X mean Y	Y cause X	0.0
+X meet Y	X combine with Y	0.0
+X meet Y	X encounter Y	0.0
+X meet Y	X join with Y	0.0
+X meet Y	X unite with Y	0.0
+X meet Y	Y combine with X	0.0
+X meet Y	Y encounter X	0.0
+X meet Y	Y join with X	0.0
+X meet Y	Y meet X	0.0
+X meet Y	Y unite with X	0.0
+X metabolize by Y	X convert by Y	0.0
+X metabolize by Y	X metabolize in Y	0.0
+X metabolize in Y	X metabolize by Y	0.0
+X metabolize to Y	X convert into Y	0.0
+X metabolize to Y	X convert to Y	0.0
+X metabolize to Y	X reduce to Y	0.0
+X metabolize to Y	Y form from X	0.0
+X mistake for Y	X confound with Y	0.0
+X mistake for Y	X confuse with Y	0.0
+X mistake for Y	X differ from Y	0.0
+X mistake for Y	X distinguish from Y	0.0
+X mistake for Y	Y confound with X	0.0
+X mistake for Y	Y distinguish from X	0.0
+X mistake for Y	Y mistake for X	0.0
+X need for Y	X administer for Y	0.0
+X need for Y	X be for Y	0.0
+X need for Y	X be in Y	0.0
+X need for Y	X control Y	0.0
+X need for Y	X give for Y	0.0
+X need for Y	X help Y	0.0
+X need for Y	X order for Y	0.0
+X need for Y	X prescribe for Y	0.0
+X need for Y	X reduce Y	0.0
+X need for Y	X relieve Y	0.0
+X need for Y	X require for Y	0.0
+X need for Y	X use for Y	0.0
+X need for Y	X use in Y	0.0
+X need for Y	Y control by X	0.0
+X need for Y	Y control with X	0.0
+X need for Y	Y manage with X	0.0
+X need for Y	Y relieve by X	0.0
+X need for Y	Y require X	0.0
+X need for Y	Y respond to X	0.0
+X need for Y	Y treat by X	0.0
+X need for Y	Y treat with X	0.0
+X observe in Y	X be in Y	0.0
+X observe in Y	X occur in Y	0.0
+X obtain from Y	X derive from Y	0.0
+X obtain from Y	X find in Y	0.0
+X obtain from Y	X isolate from Y	0.0
+X obtain from Y	X occur in Y	0.0
+X obtain from Y	X produce by Y	0.0
+X obtain from Y	Y contain X	0.0
+X obtain from Y	Y give X	0.0
+X obtain from Y	Y have X	0.0
+X obtain from Y	Y produce X	0.0
+X obtain from Y	Y provide X	0.0
+X obtain with Y	X achieve with Y	0.0
+X obtain with Y	Y afford X	0.0
+X obtain with Y	Y be for X	0.0
+X obtain with Y	Y bring X	0.0
+X obtain with Y	Y give X	0.0
+X obtain with Y	Y offer X	0.0
+X obtain with Y	Y prescribe for X	0.0
+X obtain with Y	Y produce X	0.0
+X obtain with Y	Y provide X	0.0
+X obtain with Y	Y use for X	0.0
+X occur after Y	X associate with Y	0.0
+X occur after Y	X cause by Y	0.0
+X occur after Y	X follow Y	0.0
+X occur after Y	X result from Y	0.0
+X occur after Y	Y associate with X	0.0
+X occur after Y	Y cause X	0.0
+X occur after Y	Y follow by X	0.0
+X occur after Y	Y lead to X	0.0
+X occur after Y	Y produce X	0.0
+X occur after Y	Y result in X	0.0
+X occur during Y	X associate with Y	0.0
+X occur during Y	X be during Y	0.0
+X occur during Y	X be in Y	0.0
+X occur during Y	X occur in Y	0.0
+X occur during Y	Y cause X	0.0
+X occur during Y	Y characterize by X	0.0
+X occur from Y	X associate with Y	0.0
+X occur from Y	X cause by Y	0.0
+X occur from Y	X follow Y	0.0
+X occur from Y	X result from Y	0.0
+X occur from Y	Y associate with X	0.0
+X occur from Y	Y cause X	0.0
+X occur from Y	Y lead to X	0.0
+X occur from Y	Y produce X	0.0
+X occur from Y	Y result in X	0.0
+X occur in Y	X accompany Y	0.0
+X occur in Y	X affect Y	0.0
+X occur in Y	X associate with Y	0.0
+X occur in Y	X attack Y	0.0
+X occur in Y	X be during Y	0.0
+X occur in Y	X be in Y	0.0
+X occur in Y	X cause by Y	0.0
+X occur in Y	X characterize by Y	0.0
+X occur in Y	X develop in Y	0.0
+X occur in Y	X find in Y	0.0
+X occur in Y	X indicate Y	0.0
+X occur in Y	X involve Y	0.0
+X occur in Y	X observe in Y	0.0
+X occur in Y	X obtain from Y	0.0
+X occur in Y	X occur during Y	0.0
+X occur in Y	X occur with Y	0.0
+X occur in Y	X present with Y	0.0
+X occur in Y	X see in Y	0.0
+X occur in Y	X suggest Y	0.0
+X occur in Y	Y affect with X	0.0
+X occur in Y	Y associate with X	0.0
+X occur in Y	Y carry X	0.0
+X occur in Y	Y cause X	0.0
+X occur in Y	Y cause by X	0.0
+X occur in Y	Y characterize by X	0.0
+X occur in Y	Y contain X	0.0
+X occur in Y	Y develop X	0.0
+X occur in Y	Y give X	0.0
+X occur in Y	Y have X	0.0
+X occur in Y	Y infect with X	0.0
+X occur in Y	Y occur with X	0.0
+X occur in Y	Y precede by X	0.0
+X occur in Y	Y present as X	0.0
+X occur in Y	Y produce X	0.0
+X occur in Y	Y show X	0.0
+X occur in Y	Y suffer from X	0.0
+X occur in Y	Y suggest X	0.0
+X occur in Y	Y transmit X	0.0
+X occur with Y	X accompany Y	0.0
+X occur with Y	X accompany by Y	0.0
+X occur with Y	X associate with Y	0.0
+X occur with Y	X cause Y	0.0
+X occur with Y	X cause by Y	0.0
+X occur with Y	X complicate Y	0.0
+X occur with Y	X occur in Y	0.0
+X occur with Y	X present with Y	0.0
+X occur with Y	X produce Y	0.0
+X occur with Y	Y accompany X	0.0
+X occur with Y	Y accompany by X	0.0
+X occur with Y	Y associate with X	0.0
+X occur with Y	Y cause X	0.0
+X occur with Y	Y cause by X	0.0
+X occur with Y	Y follow X	0.0
+X occur with Y	Y follow by X	0.0
+X occur with Y	Y indicate X	0.0
+X occur with Y	Y lead to X	0.0
+X occur with Y	Y occur in X	0.0
+X occur with Y	Y present with X	0.0
+X occur with Y	Y produce X	0.0
+X occur with Y	Y result in X	0.0
+X occur with Y	Y suggest X	0.0
+X offer Y	X afford Y	0.0
+X offer Y	X be for Y	0.0
+X offer Y	X give Y	0.0
+X offer Y	X produce Y	0.0
+X offer Y	X provide Y	0.0
+X offer Y	X use for Y	0.0
+X offer Y	Y achieve with X	0.0
+X offer Y	Y afford by X	0.0
+X offer Y	Y obtain with X	0.0
+X offer Y	Y provide by X	0.0
+X order for Y	X administer for Y	0.0
+X order for Y	X be for Y	0.0
+X order for Y	X be in Y	0.0
+X order for Y	X control Y	0.0
+X order for Y	X give for Y	0.0
+X order for Y	X indicate for Y	0.0
+X order for Y	X need for Y	0.0
+X order for Y	X prescribe for Y	0.0
+X order for Y	X reduce Y	0.0
+X order for Y	X relieve Y	0.0
+X order for Y	X require for Y	0.0
+X order for Y	X use for Y	0.0
+X order for Y	Y control by X	0.0
+X order for Y	Y control with X	0.0
+X order for Y	Y relieve by X	0.0
+X order for Y	Y treat by X	0.0
+X order for Y	Y treat with X	0.0
+X overcome by Y	X control by Y	0.0
+X overcome by Y	X relieve by Y	0.0
+X overcome by Y	X treat by Y	0.0
+X overcome by Y	X treat with Y	0.0
+X overcome by Y	Y relieve X	0.0
+X pass through Y	X enter Y	0.0
+X penetrate Y	X enter Y	0.0
+X penetrate Y	X fertilize Y	0.0
+X penetrate Y	X inject into Y	0.0
+X penetrate Y	Y fertilize by X	0.0
+X penetrate Y	Y penetrate by X	0.0
+X penetrate by Y	X fertilize by Y	0.0
+X penetrate by Y	Y enter X	0.0
+X penetrate by Y	Y fertilize X	0.0
+X penetrate by Y	Y inject into X	0.0
+X penetrate by Y	Y penetrate X	0.0
+X precede Y	X follow by Y	0.0
+X precede Y	Y characterize by X	0.0
+X precede Y	Y complicate X	0.0
+X precede Y	Y follow X	0.0
+X precede by Y	X cause Y	0.0
+X precede by Y	X complicate Y	0.0
+X precede by Y	X herald by Y	0.0
+X precede by Y	X produce Y	0.0
+X precede by Y	Y lead to X	0.0
+X precede by Y	Y occur in X	0.0
+X precipitate Y	X cause Y	0.0
+X precipitate Y	X lead to Y	0.0
+X precipitate Y	X trigger Y	0.0
+X precipitate by Y	Y cause X	0.0
+X predispose to Y	X cause Y	0.0
+X predispose to Y	X lead to Y	0.0
+X predispose to Y	Y associate with X	0.0
+X predispose to Y	Y cause by X	0.0
+X prepare from Y	X base on Y	0.0
+X prepare from Y	X compose of Y	0.0
+X prepare from Y	X consist of Y	0.0
+X prepare from Y	X contain Y	0.0
+X prepare from Y	X derive from Y	0.0
+X prepare from Y	X make from Y	0.0
+X prepare from Y	Y use as X	0.0
+X prescribe for Y	X administer for Y	0.0
+X prescribe for Y	X afford Y	0.0
+X prescribe for Y	X alleviate Y	0.0
+X prescribe for Y	X be for Y	0.0
+X prescribe for Y	X bring Y	0.0
+X prescribe for Y	X control Y	0.0
+X prescribe for Y	X cure Y	0.0
+X prescribe for Y	X give Y	0.0
+X prescribe for Y	X give for Y	0.0
+X prescribe for Y	X help Y	0.0
+X prescribe for Y	X indicate for Y	0.0
+X prescribe for Y	X need for Y	0.0
+X prescribe for Y	X order for Y	0.0
+X prescribe for Y	X prevent Y	0.0
+X prescribe for Y	X provide Y	0.0
+X prescribe for Y	X provide from Y	0.0
+X prescribe for Y	X recommend for Y	0.0
+X prescribe for Y	X reduce Y	0.0
+X prescribe for Y	X relieve Y	0.0
+X prescribe for Y	X require for Y	0.0
+X prescribe for Y	X take for Y	0.0
+X prescribe for Y	X use for Y	0.0
+X prescribe for Y	X use in Y	0.0
+X prescribe for Y	Y achieve with X	0.0
+X prescribe for Y	Y control by X	0.0
+X prescribe for Y	Y control with X	0.0
+X prescribe for Y	Y manage with X	0.0
+X prescribe for Y	Y obtain with X	0.0
+X prescribe for Y	Y relieve by X	0.0
+X prescribe for Y	Y relieve with X	0.0
+X prescribe for Y	Y require X	0.0
+X prescribe for Y	Y respond to X	0.0
+X prescribe for Y	Y treat by X	0.0
+X prescribe for Y	Y treat with X	0.0
+X present Y	Y find in X	0.0
+X present as Y	X associate with Y	0.0
+X present as Y	X characterize by Y	0.0
+X present as Y	X lead to Y	0.0
+X present as Y	X present with Y	0.0
+X present as Y	X produce Y	0.0
+X present as Y	X result in Y	0.0
+X present as Y	Y associate with X	0.0
+X present as Y	Y be in X	0.0
+X present as Y	Y follow X	0.0
+X present as Y	Y indicate X	0.0
+X present as Y	Y occur in X	0.0
+X present as Y	Y result from X	0.0
+X present with Y	X accompany by Y	0.0
+X present with Y	X associate with Y	0.0
+X present with Y	X begin with Y	0.0
+X present with Y	X cause Y	0.0
+X present with Y	X characterize by Y	0.0
+X present with Y	X give to Y	0.0
+X present with Y	X manifest by Y	0.0
+X present with Y	X occur in Y	0.0
+X present with Y	X occur with Y	0.0
+X present with Y	X present as Y	0.0
+X present with Y	X produce Y	0.0
+X present with Y	X result in Y	0.0
+X present with Y	Y associate with X	0.0
+X present with Y	Y be in X	0.0
+X present with Y	Y cause by X	0.0
+X present with Y	Y indicate X	0.0
+X present with Y	Y occur with X	0.0
+X present with Y	Y see in X	0.0
+X present with Y	Y suggest X	0.0
+X prevent Y	X control Y	0.0
+X prevent Y	X eliminate Y	0.0
+X prevent Y	X fight Y	0.0
+X prevent Y	X inhibit Y	0.0
+X prevent Y	X prescribe for Y	0.0
+X prevent Y	X protect against Y	0.0
+X prevent Y	X protect from Y	0.0
+X prevent Y	X reduce Y	0.0
+X prevent Y	X relieve Y	0.0
+X prevent Y	X treat Y	0.0
+X prevent Y	X use against Y	0.0
+X prevent Y	X wipe Y	0.0
+X prevent Y	Y affect by X	0.0
+X prevent Y	Y control by X	0.0
+X prevent Y	Y control with X	0.0
+X prevent Y	Y correct by X	0.0
+X prevent Y	Y prevent by X	0.0
+X prevent Y	Y require X	0.0
+X prevent Y	Y respond to X	0.0
+X prevent by Y	X control by Y	0.0
+X prevent by Y	X cure by Y	0.0
+X prevent by Y	X treat by Y	0.0
+X prevent by Y	X treat with Y	0.0
+X prevent by Y	Y eliminate X	0.0
+X prevent by Y	Y lead to X	0.0
+X prevent by Y	Y prevent X	0.0
+X prevent by Y	Y protect against X	0.0
+X produce Y	X accompany Y	0.0
+X produce Y	X accompany by Y	0.0
+X produce Y	X afford Y	0.0
+X produce Y	X aggravate Y	0.0
+X produce Y	X bring Y	0.0
+X produce Y	X cause Y	0.0
+X produce Y	X contribute to Y	0.0
+X produce Y	X create Y	0.0
+X produce Y	X develop Y	0.0
+X produce Y	X develop with Y	0.0
+X produce Y	X discharge Y	0.0
+X produce Y	X ejaculate Y	0.0
+X produce Y	X find Y	0.0
+X produce Y	X follow by Y	0.0
+X produce Y	X increase Y	0.0
+X produce Y	X induce Y	0.0
+X produce Y	X introduce Y	0.0
+X produce Y	X lead to Y	0.0
+X produce Y	X make Y	0.0
+X produce Y	X manifest as Y	0.0
+X produce Y	X manifest by Y	0.0
+X produce Y	X manufacture Y	0.0
+X produce Y	X occur with Y	0.0
+X produce Y	X offer Y	0.0
+X produce Y	X precede by Y	0.0
+X produce Y	X present as Y	0.0
+X produce Y	X present with Y	0.0
+X produce Y	X promote Y	0.0
+X produce Y	X provide Y	0.0
+X produce Y	X release Y	0.0
+X produce Y	X result in Y	0.0
+X produce Y	X secrete Y	0.0
+X produce Y	X stimulate Y	0.0
+X produce Y	X suggest Y	0.0
+X produce Y	Y accompany X	0.0
+X produce Y	Y accompany by X	0.0
+X produce Y	Y achieve with X	0.0
+X produce Y	Y attribute to X	0.0
+X produce Y	Y be in X	0.0
+X produce Y	Y cause by X	0.0
+X produce Y	Y come from X	0.0
+X produce Y	Y derive from X	0.0
+X produce Y	Y develop from X	0.0
+X produce Y	Y follow X	0.0
+X produce Y	Y induce by X	0.0
+X produce Y	Y introduce by X	0.0
+X produce Y	Y isolate from X	0.0
+X produce Y	Y make by X	0.0
+X produce Y	Y obtain from X	0.0
+X produce Y	Y obtain with X	0.0
+X produce Y	Y occur after X	0.0
+X produce Y	Y occur from X	0.0
+X produce Y	Y occur in X	0.0
+X produce Y	Y occur with X	0.0
+X produce Y	Y produce by X	0.0
+X produce Y	Y produce in X	0.0
+X produce Y	Y relate to X	0.0
+X produce Y	Y result from X	0.0
+X produce Y	Y secrete by X	0.0
+X produce Y	Y see in X	0.0
+X produce Y	Y suggest X	0.0
+X produce by Y	X associate with Y	0.0
+X produce by Y	X cause by Y	0.0
+X produce by Y	X derive from Y	0.0
+X produce by Y	X isolate from Y	0.0
+X produce by Y	X obtain from Y	0.0
+X produce by Y	X produce in Y	0.0
+X produce by Y	X result from Y	0.0
+X produce by Y	X secrete by Y	0.0
+X produce by Y	Y cause X	0.0
+X produce by Y	Y give X	0.0
+X produce by Y	Y include X	0.0
+X produce by Y	Y lead to X	0.0
+X produce by Y	Y make X	0.0
+X produce by Y	Y manufacture X	0.0
+X produce by Y	Y produce X	0.0
+X produce by Y	Y release X	0.0
+X produce by Y	Y secrete X	0.0
+X produce in Y	X produce by Y	0.0
+X produce in Y	Y make X	0.0
+X produce in Y	Y produce X	0.0
+X progress to Y	X associate with Y	0.0
+X progress to Y	X complicate by Y	0.0
+X progress to Y	X develop into Y	0.0
+X progress to Y	X lead to Y	0.0
+X progress to Y	Y cause by X	0.0
+X promote Y	X produce Y	0.0
+X promote Y	X stimulate Y	0.0
+X protect against Y	X prevent Y	0.0
+X protect against Y	X protect from Y	0.0
+X protect against Y	Y prevent by X	0.0
+X protect from Y	X prevent Y	0.0
+X protect from Y	X protect against Y	0.0
+X protect from Y	X reduce Y	0.0
+X provide Y	X afford Y	0.0
+X provide Y	X be for Y	0.0
+X provide Y	X bring Y	0.0
+X provide Y	X contain Y	0.0
+X provide Y	X give Y	0.0
+X provide Y	X have Y	0.0
+X provide Y	X indicate for Y	0.0
+X provide Y	X induce Y	0.0
+X provide Y	X offer Y	0.0
+X provide Y	X prescribe for Y	0.0
+X provide Y	X produce Y	0.0
+X provide Y	X recommend for Y	0.0
+X provide Y	X use for Y	0.0
+X provide Y	Y achieve with X	0.0
+X provide Y	Y afford by X	0.0
+X provide Y	Y obtain from X	0.0
+X provide Y	Y obtain with X	0.0
+X provide Y	Y provide by X	0.0
+X provide by Y	X afford by Y	0.0
+X provide by Y	Y be for X	0.0
+X provide by Y	Y give X	0.0
+X provide by Y	Y indicate for X	0.0
+X provide by Y	Y offer X	0.0
+X provide by Y	Y provide X	0.0
+X provide by Y	Y recommend for X	0.0
+X provide by Y	Y use for X	0.0
+X provide from Y	X control Y	0.0
+X provide from Y	X give for Y	0.0
+X provide from Y	X prescribe for Y	0.0
+X provide from Y	X reduce Y	0.0
+X provide from Y	X relieve Y	0.0
+X provide from Y	X use for Y	0.0
+X provide from Y	Y control by X	0.0
+X provide from Y	Y control with X	0.0
+X provide from Y	Y treat with X	0.0
+X reach Y	X enter Y	0.0
+X receive Y	X contain Y	0.0
+X receive Y	X have Y	0.0
+X receive Y	Y be in X	0.0
+X recommend for Y	X administer for Y	0.0
+X recommend for Y	X afford Y	0.0
+X recommend for Y	X be for Y	0.0
+X recommend for Y	X be in Y	0.0
+X recommend for Y	X develop for Y	0.0
+X recommend for Y	X give Y	0.0
+X recommend for Y	X give for Y	0.0
+X recommend for Y	X indicate for Y	0.0
+X recommend for Y	X license for Y	0.0
+X recommend for Y	X prescribe for Y	0.0
+X recommend for Y	X provide Y	0.0
+X recommend for Y	X require for Y	0.0
+X recommend for Y	X use for Y	0.0
+X recommend for Y	X use in Y	0.0
+X recommend for Y	Y achieve with X	0.0
+X recommend for Y	Y provide by X	0.0
+X recommend for Y	Y treat with X	0.0
+X recommend for Y	Y use X	0.0
+X reduce Y	X administer for Y	0.0
+X reduce Y	X alleviate Y	0.0
+X reduce Y	X be for Y	0.0
+X reduce Y	X be in Y	0.0
+X reduce Y	X control Y	0.0
+X reduce Y	X decrease Y	0.0
+X reduce Y	X give for Y	0.0
+X reduce Y	X help Y	0.0
+X reduce Y	X indicate for Y	0.0
+X reduce Y	X kill Y	0.0
+X reduce Y	X mask Y	0.0
+X reduce Y	X need for Y	0.0
+X reduce Y	X order for Y	0.0
+X reduce Y	X prescribe for Y	0.0
+X reduce Y	X prevent Y	0.0
+X reduce Y	X protect from Y	0.0
+X reduce Y	X provide from Y	0.0
+X reduce Y	X relieve Y	0.0
+X reduce Y	X suppress Y	0.0
+X reduce Y	X take for Y	0.0
+X reduce Y	X use for Y	0.0
+X reduce Y	X use in Y	0.0
+X reduce Y	Y control by X	0.0
+X reduce Y	Y control with X	0.0
+X reduce Y	Y manage with X	0.0
+X reduce Y	Y relieve by X	0.0
+X reduce Y	Y relieve with X	0.0
+X reduce Y	Y respond to X	0.0
+X reduce Y	Y treat with X	0.0
+X reduce to Y	X convert into Y	0.0
+X reduce to Y	X convert to Y	0.0
+X reduce to Y	X metabolize to Y	0.0
+X refer to Y	X cause by Y	0.0
+X refer to Y	X define as Y	0.0
+X refer to Y	X imply Y	0.0
+X refer to Y	X involve Y	0.0
+X refer to Y	X mean Y	0.0
+X refer to Y	Y associate with X	0.0
+X refer to Y	Y include X	0.0
+X relate to Y	X associate with Y	0.0
+X relate to Y	X attribute to Y	0.0
+X relate to Y	X cause by Y	0.0
+X relate to Y	X result from Y	0.0
+X relate to Y	X suggest Y	0.0
+X relate to Y	Y associate with X	0.0
+X relate to Y	Y cause X	0.0
+X relate to Y	Y characterize by X	0.0
+X relate to Y	Y contribute to X	0.0
+X relate to Y	Y lead to X	0.0
+X relate to Y	Y produce X	0.0
+X relate to Y	Y result in X	0.0
+X release Y	X make Y	0.0
+X release Y	X manufacture Y	0.0
+X release Y	X produce Y	0.0
+X release Y	Y produce by X	0.0
+X release into Y	X enter Y	0.0
+X release into Y	X secrete into Y	0.0
+X relieve Y	X administer for Y	0.0
+X relieve Y	X alleviate Y	0.0
+X relieve Y	X be for Y	0.0
+X relieve Y	X be in Y	0.0
+X relieve Y	X control Y	0.0
+X relieve Y	X decrease Y	0.0
+X relieve Y	X give for Y	0.0
+X relieve Y	X help Y	0.0
+X relieve Y	X help with Y	0.0
+X relieve Y	X improve Y	0.0
+X relieve Y	X mask Y	0.0
+X relieve Y	X need for Y	0.0
+X relieve Y	X order for Y	0.0
+X relieve Y	X prescribe for Y	0.0
+X relieve Y	X prevent Y	0.0
+X relieve Y	X provide from Y	0.0
+X relieve Y	X reduce Y	0.0
+X relieve Y	X require for Y	0.0
+X relieve Y	X take for Y	0.0
+X relieve Y	X use for Y	0.0
+X relieve Y	Y control by X	0.0
+X relieve Y	Y control with X	0.0
+X relieve Y	Y correct by X	0.0
+X relieve Y	Y cure by X	0.0
+X relieve Y	Y manage with X	0.0
+X relieve Y	Y overcome by X	0.0
+X relieve Y	Y relieve by X	0.0
+X relieve Y	Y relieve with X	0.0
+X relieve Y	Y require X	0.0
+X relieve Y	Y respond to X	0.0
+X relieve Y	Y treat by X	0.0
+X relieve Y	Y treat with X	0.0
+X relieve by Y	X control by Y	0.0
+X relieve by Y	X control with Y	0.0
+X relieve by Y	X correct by Y	0.0
+X relieve by Y	X manage with Y	0.0
+X relieve by Y	X overcome by Y	0.0
+X relieve by Y	X relieve with Y	0.0
+X relieve by Y	X require Y	0.0
+X relieve by Y	X respond to Y	0.0
+X relieve by Y	X treat by Y	0.0
+X relieve by Y	X treat with Y	0.0
+X relieve by Y	Y administer for X	0.0
+X relieve by Y	Y alleviate X	0.0
+X relieve by Y	Y be for X	0.0
+X relieve by Y	Y be in X	0.0
+X relieve by Y	Y control X	0.0
+X relieve by Y	Y correct X	0.0
+X relieve by Y	Y cure X	0.0
+X relieve by Y	Y decrease X	0.0
+X relieve by Y	Y give for X	0.0
+X relieve by Y	Y help X	0.0
+X relieve by Y	Y improve X	0.0
+X relieve by Y	Y mask X	0.0
+X relieve by Y	Y need for X	0.0
+X relieve by Y	Y order for X	0.0
+X relieve by Y	Y prescribe for X	0.0
+X relieve by Y	Y reduce X	0.0
+X relieve by Y	Y relieve X	0.0
+X relieve by Y	Y require for X	0.0
+X relieve by Y	Y take for X	0.0
+X relieve by Y	Y use for X	0.0
+X relieve with Y	X control by Y	0.0
+X relieve with Y	X control with Y	0.0
+X relieve with Y	X manage with Y	0.0
+X relieve with Y	X relieve by Y	0.0
+X relieve with Y	X respond to Y	0.0
+X relieve with Y	X treat with Y	0.0
+X relieve with Y	Y alleviate X	0.0
+X relieve with Y	Y be for X	0.0
+X relieve with Y	Y be in X	0.0
+X relieve with Y	Y control X	0.0
+X relieve with Y	Y give for X	0.0
+X relieve with Y	Y help X	0.0
+X relieve with Y	Y mask X	0.0
+X relieve with Y	Y prescribe for X	0.0
+X relieve with Y	Y reduce X	0.0
+X relieve with Y	Y relieve X	0.0
+X relieve with Y	Y take for X	0.0
+X relieve with Y	Y use for X	0.0
+X replace Y	X substitute for Y	0.0
+X require Y	X control by Y	0.0
+X require Y	X control with Y	0.0
+X require Y	X correct by Y	0.0
+X require Y	X correct with Y	0.0
+X require Y	X cure by Y	0.0
+X require Y	X relieve by Y	0.0
+X require Y	X respond to Y	0.0
+X require Y	X treat by Y	0.0
+X require Y	X treat with Y	0.0
+X require Y	Y administer for X	0.0
+X require Y	Y control X	0.0
+X require Y	Y correct X	0.0
+X require Y	Y cure X	0.0
+X require Y	Y give for X	0.0
+X require Y	Y need for X	0.0
+X require Y	Y prescribe for X	0.0
+X require Y	Y prevent X	0.0
+X require Y	Y relieve X	0.0
+X require Y	Y require for X	0.0
+X require Y	Y reserve for X	0.0
+X require Y	Y treat X	0.0
+X require Y	Y use for X	0.0
+X require Y	Y use in X	0.0
+X require for Y	X administer for Y	0.0
+X require for Y	X be for Y	0.0
+X require for Y	X be in Y	0.0
+X require for Y	X give for Y	0.0
+X require for Y	X need for Y	0.0
+X require for Y	X order for Y	0.0
+X require for Y	X prescribe for Y	0.0
+X require for Y	X recommend for Y	0.0
+X require for Y	X relieve Y	0.0
+X require for Y	X use for Y	0.0
+X require for Y	X use in Y	0.0
+X require for Y	Y achieve with X	0.0
+X require for Y	Y manage with X	0.0
+X require for Y	Y relieve by X	0.0
+X require for Y	Y require X	0.0
+X require for Y	Y respond to X	0.0
+X require for Y	Y treat by X	0.0
+X require for Y	Y treat with X	0.0
+X resemble Y	X simulate Y	0.0
+X reserve for Y	X use for Y	0.0
+X reserve for Y	Y require X	0.0
+X reserve for Y	Y treat by X	0.0
+X reserve for Y	Y treat with X	0.0
+X respond to Y	X affect by Y	0.0
+X respond to Y	X cure by Y	0.0
+X respond to Y	X manage with Y	0.0
+X respond to Y	X relieve by Y	0.0
+X respond to Y	X relieve with Y	0.0
+X respond to Y	X require Y	0.0
+X respond to Y	Y administer for X	0.0
+X respond to Y	Y alleviate X	0.0
+X respond to Y	Y be against X	0.0
+X respond to Y	Y be for X	0.0
+X respond to Y	Y decrease X	0.0
+X respond to Y	Y eliminate X	0.0
+X respond to Y	Y give for X	0.0
+X respond to Y	Y help X	0.0
+X respond to Y	Y kill X	0.0
+X respond to Y	Y mask X	0.0
+X respond to Y	Y need for X	0.0
+X respond to Y	Y prescribe for X	0.0
+X respond to Y	Y prevent X	0.0
+X respond to Y	Y reduce X	0.0
+X respond to Y	Y relieve X	0.0
+X respond to Y	Y require for X	0.0
+X respond to Y	Y treat X	0.0
+X respond to Y	Y use for X	0.0
+X respond to Y	Y use in X	0.0
+X respond with Y	X treat with Y	0.0
+X result from Y	X attribute to Y	0.0
+X result from Y	X be in Y	0.0
+X result from Y	X cause Y	0.0
+X result from Y	X cause by Y	0.0
+X result from Y	X characterize by Y	0.0
+X result from Y	X complicate Y	0.0
+X result from Y	X develop from Y	0.0
+X result from Y	X follow Y	0.0
+X result from Y	X indicate Y	0.0
+X result from Y	X mean Y	0.0
+X result from Y	X occur after Y	0.0
+X result from Y	X occur from Y	0.0
+X result from Y	X produce by Y	0.0
+X result from Y	X relate to Y	0.0
+X result from Y	X see in Y	0.0
+X result from Y	X suggest Y	0.0
+X result from Y	Y associate with X	0.0
+X result from Y	Y cause X	0.0
+X result from Y	Y characterize by X	0.0
+X result from Y	Y complicate by X	0.0
+X result from Y	Y contribute to X	0.0
+X result from Y	Y give to X	0.0
+X result from Y	Y lead to X	0.0
+X result from Y	Y manifest as X	0.0
+X result from Y	Y manifest by X	0.0
+X result from Y	Y present as X	0.0
+X result from Y	Y produce X	0.0
+X result from Y	Y result in X	0.0
+X result from Y	Y suggest X	0.0
+X result in Y	X accompany by Y	0.0
+X result in Y	X associate with Y	0.0
+X result in Y	X cause Y	0.0
+X result in Y	X characterize by Y	0.0
+X result in Y	X contribute to Y	0.0
+X result in Y	X follow by Y	0.0
+X result in Y	X give to Y	0.0
+X result in Y	X lead to Y	0.0
+X result in Y	X manifest by Y	0.0
+X result in Y	X present as Y	0.0
+X result in Y	X present with Y	0.0
+X result in Y	X produce Y	0.0
+X result in Y	X suggest Y	0.0
+X result in Y	Y accompany X	0.0
+X result in Y	Y associate with X	0.0
+X result in Y	Y cause X	0.0
+X result in Y	Y cause by X	0.0
+X result in Y	Y develop from X	0.0
+X result in Y	Y follow X	0.0
+X result in Y	Y indicate X	0.0
+X result in Y	Y occur after X	0.0
+X result in Y	Y occur from X	0.0
+X result in Y	Y occur with X	0.0
+X result in Y	Y relate to X	0.0
+X result in Y	Y result from X	0.0
+X result in Y	Y suggest X	0.0
+X secrete Y	X produce Y	0.0
+X secrete Y	Y produce by X	0.0
+X secrete Y	Y secrete by X	0.0
+X secrete by Y	X produce by Y	0.0
+X secrete by Y	Y produce X	0.0
+X secrete by Y	Y secrete X	0.0
+X secrete into Y	X release into Y	0.0
+X see in Y	X associate with Y	0.0
+X see in Y	X be in Y	0.0
+X see in Y	X cause by Y	0.0
+X see in Y	X find in Y	0.0
+X see in Y	X indicate Y	0.0
+X see in Y	X occur in Y	0.0
+X see in Y	X result from Y	0.0
+X see in Y	X suggest Y	0.0
+X see in Y	Y accompany by X	0.0
+X see in Y	Y associate with X	0.0
+X see in Y	Y cause X	0.0
+X see in Y	Y characterize by X	0.0
+X see in Y	Y manifest by X	0.0
+X see in Y	Y present with X	0.0
+X see in Y	Y produce X	0.0
+X see with Y	X associate with Y	0.0
+X show Y	Y occur in X	0.0
+X simulate Y	X resemble Y	0.0
+X spread Y	X carry Y	0.0
+X spread by Y	X carry by Y	0.0
+X spread by Y	X transmit by Y	0.0
+X spread by Y	X transmit through Y	0.0
+X spread by Y	Y carry X	0.0
+X spread by Y	Y transmit X	0.0
+X spread through Y	X transmit by Y	0.0
+X start before Y	X give before Y	0.0
+X start with Y	X cause Y	0.0
+X start with Y	X characterize by Y	0.0
+X start with Y	Y suggest X	0.0
+X stimulate Y	X produce Y	0.0
+X stimulate Y	X promote Y	0.0
+X substitute for Y	X replace Y	0.0
+X substitute for Y	Y substitute for X	0.0
+X succeed to Y	Y follow by X	0.0
+X suffer from Y	X attack with Y	0.0
+X suffer from Y	X develop Y	0.0
+X suffer from Y	X get Y	0.0
+X suffer from Y	X have Y	0.0
+X suffer from Y	Y be in X	0.0
+X suffer from Y	Y occur in X	0.0
+X suggest Y	X accompany Y	0.0
+X suggest Y	X associate with Y	0.0
+X suggest Y	X be in Y	0.0
+X suggest Y	X cause Y	0.0
+X suggest Y	X cause by Y	0.0
+X suggest Y	X develop into Y	0.0
+X suggest Y	X follow Y	0.0
+X suggest Y	X indicate Y	0.0
+X suggest Y	X lead to Y	0.0
+X suggest Y	X occur in Y	0.0
+X suggest Y	X produce Y	0.0
+X suggest Y	X relate to Y	0.0
+X suggest Y	X result from Y	0.0
+X suggest Y	X result in Y	0.0
+X suggest Y	X see in Y	0.0
+X suggest Y	Y accompany by X	0.0
+X suggest Y	Y associate with X	0.0
+X suggest Y	Y be in X	0.0
+X suggest Y	Y begin with X	0.0
+X suggest Y	Y cause X	0.0
+X suggest Y	Y cause by X	0.0
+X suggest Y	Y characterize by X	0.0
+X suggest Y	Y consist of X	0.0
+X suggest Y	Y follow X	0.0
+X suggest Y	Y have X	0.0
+X suggest Y	Y involve X	0.0
+X suggest Y	Y lead to X	0.0
+X suggest Y	Y manifest by X	0.0
+X suggest Y	Y occur in X	0.0
+X suggest Y	Y occur with X	0.0
+X suggest Y	Y present as X	0.0
+X suggest Y	Y present with X	0.0
+X suggest Y	Y produce X	0.0
+X suggest Y	Y result from X	0.0
+X suggest Y	Y result in X	0.0
+X suggest Y	Y start with X	0.0
+X suppress Y	X reduce Y	0.0
+X suppress Y	Y treat with X	0.0
+X synthesize from Y	X derive from Y	0.0
+X take Y	X treat with Y	0.0
+X take Y	Y give to X	0.0
+X take Y	Y use in X	0.0
+X take for Y	X be for Y	0.0
+X take for Y	X give for Y	0.0
+X take for Y	X help Y	0.0
+X take for Y	X prescribe for Y	0.0
+X take for Y	X reduce Y	0.0
+X take for Y	X relieve Y	0.0
+X take for Y	X use for Y	0.0
+X take for Y	Y control with X	0.0
+X take for Y	Y relieve by X	0.0
+X take for Y	Y relieve with X	0.0
+X take for Y	Y treat with X	0.0
+X terminate in Y	Y follow X	0.0
+X transmit Y	X carry Y	0.0
+X transmit Y	X develop Y	0.0
+X transmit Y	X have Y	0.0
+X transmit Y	X infect with Y	0.0
+X transmit Y	Y be in X	0.0
+X transmit Y	Y carry by X	0.0
+X transmit Y	Y find in X	0.0
+X transmit Y	Y occur in X	0.0
+X transmit Y	Y spread by X	0.0
+X transmit Y	Y transmit by X	0.0
+X transmit Y	Y transmit through X	0.0
+X transmit by Y	X be in Y	0.0
+X transmit by Y	X carry by Y	0.0
+X transmit by Y	X find in Y	0.0
+X transmit by Y	X spread by Y	0.0
+X transmit by Y	X spread through Y	0.0
+X transmit by Y	X transmit through Y	0.0
+X transmit by Y	Y carry X	0.0
+X transmit by Y	Y infect with X	0.0
+X transmit by Y	Y transmit X	0.0
+X transmit from Y	Y have X	0.0
+X transmit through Y	X spread by Y	0.0
+X transmit through Y	X transmit by Y	0.0
+X transmit through Y	X transmit via Y	0.0
+X transmit through Y	Y transmit X	0.0
+X transmit to Y	X affect Y	0.0
+X transmit via Y	X transmit through Y	0.0
+X treat Y	X control Y	0.0
+X treat Y	X prevent Y	0.0
+X treat Y	X use for Y	0.0
+X treat Y	Y control with X	0.0
+X treat Y	Y require X	0.0
+X treat Y	Y respond to X	0.0
+X treat Y	Y treat by X	0.0
+X treat Y	Y treat with X	0.0
+X treat by Y	X control by Y	0.0
+X treat by Y	X control with Y	0.0
+X treat by Y	X correct by Y	0.0
+X treat by Y	X correct with Y	0.0
+X treat by Y	X cure by Y	0.0
+X treat by Y	X cure with Y	0.0
+X treat by Y	X manage with Y	0.0
+X treat by Y	X overcome by Y	0.0
+X treat by Y	X prevent by Y	0.0
+X treat by Y	X relieve by Y	0.0
+X treat by Y	X require Y	0.0
+X treat by Y	X treat with Y	0.0
+X treat by Y	Y alleviate X	0.0
+X treat by Y	Y be against X	0.0
+X treat by Y	Y control X	0.0
+X treat by Y	Y correct X	0.0
+X treat by Y	Y cure X	0.0
+X treat by Y	Y eliminate X	0.0
+X treat by Y	Y eradicate X	0.0
+X treat by Y	Y mask X	0.0
+X treat by Y	Y need for X	0.0
+X treat by Y	Y order for X	0.0
+X treat by Y	Y prescribe for X	0.0
+X treat by Y	Y relieve X	0.0
+X treat by Y	Y require for X	0.0
+X treat by Y	Y reserve for X	0.0
+X treat by Y	Y treat X	0.0
+X treat with Y	X affect by Y	0.0
+X treat with Y	X control by Y	0.0
+X treat with Y	X control with Y	0.0
+X treat with Y	X correct by Y	0.0
+X treat with Y	X correct with Y	0.0
+X treat with Y	X cure by Y	0.0
+X treat with Y	X cure with Y	0.0
+X treat with Y	X give Y	0.0
+X treat with Y	X manage with Y	0.0
+X treat with Y	X overcome by Y	0.0
+X treat with Y	X prevent by Y	0.0
+X treat with Y	X relieve by Y	0.0
+X treat with Y	X relieve with Y	0.0
+X treat with Y	X require Y	0.0
+X treat with Y	X take Y	0.0
+X treat with Y	X treat by Y	0.0
+X treat with Y	Y alleviate X	0.0
+X treat with Y	Y be against X	0.0
+X treat with Y	Y control X	0.0
+X treat with Y	Y correct X	0.0
+X treat with Y	Y cover X	0.0
+X treat with Y	Y cure X	0.0
+X treat with Y	Y decrease X	0.0
+X treat with Y	Y eliminate X	0.0
+X treat with Y	Y eradicate X	0.0
+X treat with Y	Y give to X	0.0
+X treat with Y	Y give with X	0.0
+X treat with Y	Y help X	0.0
+X treat with Y	Y improve X	0.0
+X treat with Y	Y mask X	0.0
+X treat with Y	Y need for X	0.0
+X treat with Y	Y order for X	0.0
+X treat with Y	Y prescribe for X	0.0
+X treat with Y	Y provide from X	0.0
+X treat with Y	Y recommend for X	0.0
+X treat with Y	Y reduce X	0.0
+X treat with Y	Y relieve X	0.0
+X treat with Y	Y require for X	0.0
+X treat with Y	Y reserve for X	0.0
+X treat with Y	Y suppress X	0.0
+X treat with Y	Y take for X	0.0
+X treat with Y	Y treat X	0.0
+X trigger Y	X cause Y	0.0
+X trigger Y	X precipitate Y	0.0
+X turn into Y	X develop into Y	0.0
+X turn into Y	X lead to Y	0.0
+X turn to Y	X develop into Y	0.0
+X unite with Y	X combine with Y	0.0
+X unite with Y	X encounter Y	0.0
+X unite with Y	X join with Y	0.0
+X unite with Y	X meet Y	0.0
+X unite with Y	Y combine with X	0.0
+X unite with Y	Y encounter X	0.0
+X unite with Y	Y join with X	0.0
+X unite with Y	Y meet X	0.0
+X unite with Y	Y unite with X	0.0
+X use Y	X have Y	0.0
+X use Y	Y be in X	0.0
+X use Y	Y recommend for X	0.0
+X use Y	Y use for X	0.0
+X use Y	Y use in X	0.0
+X use against Y	X be against Y	0.0
+X use against Y	X eliminate Y	0.0
+X use against Y	X eradicate Y	0.0
+X use against Y	X kill Y	0.0
+X use against Y	X prevent Y	0.0
+X use against Y	Y control with X	0.0
+X use as Y	X combine with Y	0.0
+X use as Y	X employ as Y	0.0
+X use as Y	X give as Y	0.0
+X use as Y	X have Y	0.0
+X use as Y	X use for Y	0.0
+X use as Y	X use in Y	0.0
+X use as Y	Y compose of X	0.0
+X use as Y	Y consist of X	0.0
+X use as Y	Y contain X	0.0
+X use as Y	Y derive from X	0.0
+X use as Y	Y make from X	0.0
+X use as Y	Y prepare from X	0.0
+X use as Y	Y use as X	0.0
+X use during Y	X administer during Y	0.0
+X use during Y	X give during Y	0.0
+X use during Y	X use for Y	0.0
+X use during Y	X use in Y	0.0
+X use for Y	X administer during Y	0.0
+X use for Y	X administer for Y	0.0
+X use for Y	X administer to Y	0.0
+X use for Y	X afford Y	0.0
+X use for Y	X alleviate Y	0.0
+X use for Y	X be against Y	0.0
+X use for Y	X be for Y	0.0
+X use for Y	X bring Y	0.0
+X use for Y	X correct Y	0.0
+X use for Y	X decrease Y	0.0
+X use for Y	X develop for Y	0.0
+X use for Y	X give Y	0.0
+X use for Y	X give for Y	0.0
+X use for Y	X give to Y	0.0
+X use for Y	X give with Y	0.0
+X use for Y	X have Y	0.0
+X use for Y	X help Y	0.0
+X use for Y	X license for Y	0.0
+X use for Y	X mask Y	0.0
+X use for Y	X need for Y	0.0
+X use for Y	X offer Y	0.0
+X use for Y	X order for Y	0.0
+X use for Y	X prescribe for Y	0.0
+X use for Y	X provide Y	0.0
+X use for Y	X provide from Y	0.0
+X use for Y	X recommend for Y	0.0
+X use for Y	X reduce Y	0.0
+X use for Y	X relieve Y	0.0
+X use for Y	X require for Y	0.0
+X use for Y	X reserve for Y	0.0
+X use for Y	X take for Y	0.0
+X use for Y	X treat Y	0.0
+X use for Y	X use as Y	0.0
+X use for Y	X use during Y	0.0
+X use for Y	X use in Y	0.0
+X use for Y	Y achieve with X	0.0
+X use for Y	Y afford by X	0.0
+X use for Y	Y be with X	0.0
+X use for Y	Y correct by X	0.0
+X use for Y	Y correct with X	0.0
+X use for Y	Y include X	0.0
+X use for Y	Y manage with X	0.0
+X use for Y	Y obtain with X	0.0
+X use for Y	Y provide by X	0.0
+X use for Y	Y relieve by X	0.0
+X use for Y	Y relieve with X	0.0
+X use for Y	Y require X	0.0
+X use for Y	Y respond to X	0.0
+X use for Y	Y use X	0.0
+X use in Y	X administer during Y	0.0
+X use in Y	X administer for Y	0.0
+X use in Y	X administer to Y	0.0
+X use in Y	X be against Y	0.0
+X use in Y	X be for Y	0.0
+X use in Y	X develop for Y	0.0
+X use in Y	X give for Y	0.0
+X use in Y	X give to Y	0.0
+X use in Y	X license for Y	0.0
+X use in Y	X need for Y	0.0
+X use in Y	X prescribe for Y	0.0
+X use in Y	X recommend for Y	0.0
+X use in Y	X reduce Y	0.0
+X use in Y	X require for Y	0.0
+X use in Y	X use as Y	0.0
+X use in Y	X use during Y	0.0
+X use in Y	X use for Y	0.0
+X use in Y	Y be with X	0.0
+X use in Y	Y contain X	0.0
+X use in Y	Y give X	0.0
+X use in Y	Y require X	0.0
+X use in Y	Y respond to X	0.0
+X use in Y	Y take X	0.0
+X use in Y	Y use X	0.0
+X use with Y	X combine with Y	0.0
+X use with Y	Y combine with X	0.0
+X wipe Y	X be against Y	0.0
+X wipe Y	X prevent Y	0.0
+X wipe Y	Y control with X	0.0
